@@ -1,0 +1,1204 @@
+query,source_dataset,hypo_answer,label,label_source
+In what year did Massachusetts first require children to be educated in schools?,squad,1647,SINGLE_STEP,fallback
+When were stromules discovered?,squad,Stromules were discovered in 1987.,SINGLE_STEP,outcome
+Which artist who had a major influence on the Gothic Revival is represented in the V&A's British galleries?,squad,William Burges,SINGLE_STEP,outcome
+"In 1890, who did the university decide to team up with?",squad,The University of Chicago,SINGLE_STEP,fallback
+Who got a touchdown making the score 10-7?,squad,"The player who scored a touchdown to make the score 10-7 is typically referred to as the ""game-winning touchdown scorer."" Without specific context, I",SINGLE_STEP,outcome
+How many Examination Boards exist in India?,squad,There are multiple Examination Boards in India.,SINGLE_STEP,outcome
+Who started rumors in 2008 that ABC would sell its ten owned-and-operated stations?,squad,Bob Wright,SINGLE_STEP,outcome
+Which network broadcasted the 50th Super Bowl game? ,squad,CBS broadcasted the 50th Super Bowl game.,NO_RETRIEVAL,outcome
+Why was this short termed organization created?,squad,To efficiently manage and execute tasks with a clear timeframe.,MULTI_STEP,outcome
+What does LGM stands for?,squad,Large Language Model,SINGLE_STEP,outcome
+What is the paper written by Richard Karp in 1972 that ushered in a new era of understanding between intractability and NP-complete problems?,squad,"""Reducibility Among Combinatorial Problems""",NO_RETRIEVAL,outcome
+What Lake in a German island Mainau receives a fraction of the Rhine's flow?,squad,Lake Brienz,SINGLE_STEP,outcome
+What studio does ABC own at 1500 Broadway in NYC?,squad,Warner Bros. Studio,SINGLE_STEP,outcome
+How many fraternities are apart of the university?,squad,This information varies by university and cannot be answered without specifying which university is being referred to.,SINGLE_STEP,outcome
+At what address did Goldenson secure a new headquarters for ABC?,squad,"1700 Main Street, New York City",MULTI_STEP,outcome
+Who had established the Russian empire to its former glory prior to 1921?,squad,Peter the Great,SINGLE_STEP,outcome
+What does the Riemann hypothesis state the source of irregularity in the distribution of points comes from?,squad,The Riemann hypothesis states that the source of irregularity in the distribution of non-trivial zeros of the Riemann zeta function comes from the location,SINGLE_STEP,outcome
+Which work of Luther's is effective in teaching children?,squad,"""Small Catechism""",NO_RETRIEVAL,outcome
+How was the civil disobedience shown in Antigone?,squad,"Antigone defies King Creon's decree by burying her brother Polynices, thus showing civil disobedience.",SINGLE_STEP,fallback
+Where do juvenile platyctenids live?,squad,Juvenile platyctenids live in freshwater environments.,SINGLE_STEP,outcome
+How often are elections held for the Victorian Parliament?,squad,Elections for the Victorian Parliament are held every four years.,NO_RETRIEVAL,outcome
+What magnetic and electric force acts on a charge?,squad,"The magnetic force acts on a moving charge, while the electric force acts on a stationary or moving charge.",SINGLE_STEP,fallback
+What kinds of growth did Kublai encourage?,squad,Economic and technological growth.,SINGLE_STEP,outcome
+What was the name of the first episode of the new Doctor Who series?,squad,"""An Adventure in Space and Time""",SINGLE_STEP,outcome
+Each of the extended metropolitan areas has a population that exceeds what number?,squad,5 million,SINGLE_STEP,outcome
+Why is giving a defiant speech sometimes more harmful for the individual?,squad,Because it can lead to backlash and consequences.,SINGLE_STEP,outcome
+When were Joseph Schumpeter and Norman Angell at their most prolific writing period?,squad,"Joseph Schumpeter: 1920s-1930s  
+Norman Angell: 1910s",SINGLE_STEP,outcome
+How do competing businesses attract workers?,squad,"Competing businesses attract workers through competitive salaries, benefits, career growth opportunities, and company culture.",SINGLE_STEP,fallback
+How many teams up to Super Bowl 50 have been to the championship game eight times?,squad,The Green Bay Packers,SINGLE_STEP,outcome
+What plants create most electric power?,squad,None; plants do not create electricity.,MULTI_STEP,outcome
+The epidemic in Newcastle was the most what in any British city at the time?,squad,deadly,SINGLE_STEP,fallback
+"What additional srevice did BSkyB offer besides Video on Demand that they claimed offered ""substantially more value""?",squad,Live TV streaming service.,MULTI_STEP,outcome
+Who did Tesla think would run the world of the future?,squad,Elon Musk.,SINGLE_STEP,fallback
+What have many HT members graduated to joining?,squad,"HT refers to Huawei Technologies, and its members often graduate to join other tech companies or startups.",SINGLE_STEP,outcome
+Approximately how many items are in the costume collection of the V&A?,squad,"Over 100,000 items.",SINGLE_STEP,fallback
+Which park is home to the Fresno Chafffee Zoo?,squad,"Fresno Chaffee Zoo is not a real zoo; it appears to be a misspelling or misinterpretation of ""Fresno Zoo.""",SINGLE_STEP,outcome
+The point at which different radiometric isotopes stop diffusing into and out of the crystal lattice is called what?,squad,closure temperature,NO_RETRIEVAL,outcome
+What could someone be investigated for?,squad,"Corruption, fraud, espionage, tax evasion, criminal activities.",SINGLE_STEP,fallback
+What are examples of economic actors?,squad,"Firms, households, governments, and international organizations.",SINGLE_STEP,fallback
+What field involves the study of the immune system?,squad,Immunology,NO_RETRIEVAL,outcome
+What are the phagocytes that are located in tissues in contact with the external environment called?,squad,Granulocytes,SINGLE_STEP,outcome
+What did the merchants of Newcastle plot to do to Timothy Dexter?,squad,The merchants of Newcastle conspired to defraud Timothy Dexter out of her inheritance.,MULTI_STEP,outcome
+What job did Tesla's father have in Gospic?,squad,Tesla's father was a spark mechanic in Gospic.,SINGLE_STEP,outcome
+Which hotel did the Panthers stay at for the Super Bowl?,squad,The Panthers stayed at the Hyatt Regency Atlanta for the Super Bowl.,SINGLE_STEP,fallback
+What are other alternative names for French and Indian War?,squad,Seven Years' War,SINGLE_STEP,fallback
+"Outside of its use of automobiles, what else is southern California famous for using?",squad,Movies and entertainment.,SINGLE_STEP,outcome
+What was the last name of the designers of Newcastle's library?,squad,Burns,SINGLE_STEP,outcome
+How many people were on the test flight of the AS-206?,squad,Three people were on the test flight of the AS-206.,SINGLE_STEP,fallback
+What is the state average growth rate?,squad,"The state average growth rate varies depending on the specific context (e.g., economy, population, etc.).",SINGLE_STEP,outcome
+When was the study on sequenced Y genomes published?,squad,2013,SINGLE_STEP,outcome
+How many times prios has the Sun Life Stadium had Super Bowls?,squad,Zero,SINGLE_STEP,fallback
+What does Kitab Rudjdjar mean in English?,squad,The Book of Ruj Jadeja,SINGLE_STEP,outcome
+"Name one country that banned boating, driving and flying on Sundays.",squad,Iceland,SINGLE_STEP,outcome
+For how long did the plague stick around?,squad,"The Black Death lasted for centuries, with outbreaks occurring repeatedly from the 14th to the 17th century.",SINGLE_STEP,fallback
+What channels were removed from the network in March of 2007?,squad,"The question does not specify which network or country, so the answer cannot be determined with the given information.",SINGLE_STEP,outcome
+How many total touchdowns did Cam Newton score?,squad,129,SINGLE_STEP,outcome
+How many original treaties establishing the EU protected fundamental rights?,squad,None of the original treaties established the EU protected fundamental rights; these were later incorporated through additional protocols and directives.,NO_RETRIEVAL,outcome
+What did BSkyB name their interactive service?,squad,Sky+.,SINGLE_STEP,outcome
+How many inhabitants does the Los Angeles area contain?,squad,Approximately 10 million inhabitants.,SINGLE_STEP,outcome
+During what period did the Tower Theatre re-open?,squad,2018,SINGLE_STEP,outcome
+What did Warsz own?,squad,Unknown; no information provided.,SINGLE_STEP,outcome
+Who formed the government in Kenya?,squad,The current government in Kenya is formed by the party or coalition that wins the majority of seats in the National Assembly and Senate during elections.,SINGLE_STEP,outcome
+What tool has measured the amount of dust that travels from the Sahara to the Amazon?,squad,Aerological balloons and drones equipped with sensors.,SINGLE_STEP,outcome
+Who sacked Newton with 11 seconds left in the first half?,squad,No relevant information available.,SINGLE_STEP,outcome
+What was the hymn meant to examine students on?,squad,The hymn was likely meant to examine students' knowledge and understanding of religious or cultural values.,SINGLE_STEP,fallback
+"In Nepalese private schools, what is the primary language of instruction?",squad,English,NO_RETRIEVAL,outcome
+What topic do private bills typically have?,squad,Local matters or private interests.,SINGLE_STEP,outcome
+To where did Ethelred flee?,squad,To Normandy.,NO_RETRIEVAL,outcome
+What future Revolutionary key figures participated in this attack?,squad,Unknown without specific context.,SINGLE_STEP,outcome
+What style of lace is erroneously believed by some to have Huguenot influence?,squad,Georgian lace,SINGLE_STEP,outcome
+What did the number of legions in Roman times depend on?,squad,The number of legions in Roman times depended on military needs and state resources.,SINGLE_STEP,outcome
+Before dinner what were Tesla's working hours?,squad,Tesla worked late into the night before dinner.,SINGLE_STEP,fallback
+What house was the site of a weaving school in Canterbury?,squad,The house was Merton Priory.,SINGLE_STEP,outcome
+What is strongly linked to good student-teacher relationships?,squad,Clear communication and mutual respect.,SINGLE_STEP,outcome
+What does the First Company Law Directive article 11 require?,squad,It requires companies to maintain accurate and complete records of their financial transactions.,SINGLE_STEP,fallback
+What are two examples of cytotoxic or immunosuppressive drugs?,squad,"Cytotoxic drugs: Cyclophosphamide, Methotrexate.
+
+Immunosuppressive drugs: Corticosteroids, Tacrolimus.",SINGLE_STEP,fallback
+What caused the need for principal Treaties that ended up forming the EU?,squad,"The need for principal Treaties arose from the desire to establish a stable framework and common rules among member states to ensure economic cooperation and political integration, leading to the",SINGLE_STEP,fallback
+Who originally led the Space Task Group?,squad,Wernher von Braun,SINGLE_STEP,fallback
+Which female anchor from Today joined Hugh Downs on 20/20?,squad,Buffy Blakely,SINGLE_STEP,outcome
+What is the estimate for the amount of tree species in the amazon tropical rain forest?,squad,"Estimates range from 40,000 to 50,000 species.",SINGLE_STEP,outcome
+What type of homes is Fresno known for?,squad,Fresno is known for its single-family homes.,MULTI_STEP,outcome
+What team had the best start ever in the NFL?,squad,The 1988 Miami Dolphins had the best start ever in NFL history.,SINGLE_STEP,fallback
+Which organic compounds contain the greatest amount of oxygen by mass?,squad,Carbohydrates,NO_RETRIEVAL,outcome
+What did Stiglitz present in 2009 regarding global inequality?,squad,"Stiglitz presented the idea of ""inequality of opportunity"" as a key driver of global inequality in 2009.",SINGLE_STEP,outcome
+Of what hollywood film company was UPT a subsidiary of when it merged with ABC?,squad,United Artists,SINGLE_STEP,outcome
+When did the NFL announce that it would not use Roman numbers to designate the Super Bowl number?,squad,2019,SINGLE_STEP,outcome
+How many Huguenots were killed in Toulouse?,squad,"Approximately 10,000 Huguenots were killed in Toulouse during the St. Bartholomew's Day Massacre.",SINGLE_STEP,outcome
+What is 'grey literature'?,squad,Grey literature refers to unofficial documents not controlled by conventional publishing routes.,SINGLE_STEP,outcome
+What's the name of Newcastle's speedway team?,squad,Newcastle Speedways,SINGLE_STEP,outcome
+What was the main reason for the show's suspension in 1989?,squad,Political unrest and censorship.,SINGLE_STEP,outcome
+What is the name of the port city that was created?,squad,Dalian,SINGLE_STEP,fallback
+When did Martin Luther receive his Doctor of Theology?,squad,1512,NO_RETRIEVAL,outcome
+Which phylum is more complex than sponges?,squad,Cnidaria,SINGLE_STEP,fallback
+What other scientist influence Frank Burnet when he was formulating his theory of immunity?,squad,Alfred Fersching,SINGLE_STEP,outcome
+How many volumes are contained in the library?,squad,Not specified.,MULTI_STEP,outcome
+What does co-teaching get the students to focus on?,squad,Co-teaching gets students to focus on collaborative learning and mutual support.,NO_RETRIEVAL,outcome
+Of what mountain system are the Victorian Alps a part?,squad,The Victorian Alps are part of the Great Dividing Range mountain system.,NO_RETRIEVAL,outcome
+What body part did Thomas Davis break during the NFC Championship Game?,squad,Thomas Davis did not break any body part during the NFC Championship Game.,SINGLE_STEP,outcome
+"Whose First Law of Motion says that unless acted upon be forces, objects would continue to move at a constant velocity?",squad,Galileo's First Law of Motion.,SINGLE_STEP,outcome
+How was scarcity managed in many countries?,squad,Through rationing and allocation systems.,NO_RETRIEVAL,outcome
+Where did the residents of Antioch flee to?,squad,They fled to nearby cities or inland areas.,SINGLE_STEP,outcome
+How many of the remaining launches were successful?,squad,Insufficient information.,MULTI_STEP,outcome
+How do co-teachers work with each other to fulfill the needs of students?,squad,"Co-teachers collaborate through shared lesson planning, differentiated instruction, and student support systems to meet diverse student needs effectively.",SINGLE_STEP,outcome
+What creatures were the most popular monsters in the series?,squad,"Ghasts, Wraiths, and Zombies.",SINGLE_STEP,fallback
+Who did Britain exploit in India?,squad,Britain exploited India through colonial rule and economic exploitation.,SINGLE_STEP,fallback
+Who runs the University of Chicago?,squad,The University of Chicago is run by the University of Chicago Board of Trustees.,NO_RETRIEVAL,outcome
+"Hormones can alter the sensitivity of the immune system, so they can be referred to as what?",squad,Regulators of the immune system.,SINGLE_STEP,outcome
+How much did Levi's Stadium cost?,squad,Levi's Stadium cost approximately $1.2 billion to build.,NO_RETRIEVAL,outcome
+How many times has the South Florida/Miami area hosted the Super Bowl?,squad,Four times.,SINGLE_STEP,outcome
+How much of the population is Hindu?,squad,About 15% globally.,MULTI_STEP,outcome
+When did the formation of the Holocene Rhine-Meuse delta begin?,squad,"The formation of the Holocene Rhine-Meuse delta began around 10,000 years ago.",SINGLE_STEP,outcome
+Which university has its origins in a school dealing with medicine and surgery?,squad,University of Oxford,SINGLE_STEP,outcome
+How much carbon gets wasted by using O2 instead of CO2?,squad,"It varies significantly depending on the context and efficiency, but generally, a substantial amount is wasted.",SINGLE_STEP,outcome
+Where was Marin's second fort constructed?,squad,Puerto Rico,SINGLE_STEP,outcome
+Where can a tribute to the fall of Warsaw be found?,squad,In the Warsaw Uprising Memorial.,SINGLE_STEP,outcome
+On what service could the ESPN Deportes broadcast be streamed?,squad,ESPN Deportes broadcasts can be streamed on the ESPN app and website.,SINGLE_STEP,outcome
+What characteristic identifies the French ancestry of some South Africans?,squad,Patrilineal descent from French Huguenots.,SINGLE_STEP,fallback
+What was the naval base called?,squad,Port Arthur,SINGLE_STEP,fallback
+How much did Tesla sell his AC patents to Westinghouse Electric for?,squad,$1 million.,SINGLE_STEP,outcome
+How is income determined in a market with variously skilled workers?,squad,Income is determined by the value of the goods or services produced relative to the demand and supply of those skills in the market.,SINGLE_STEP,outcome
+What has caused China to suspend their railway project?,squad,Insufficient funding.,SINGLE_STEP,outcome
+What did Watt add to Newcomen's engine between 1763 and 1775?,squad,A separate condenser,NO_RETRIEVAL,outcome
+What kind of light is important for chloroplasts to divide?,squad,Blue light,SINGLE_STEP,outcome
+What are the only states where ABC doesn't have a licensed affiliate?,squad,Wyoming and North Dakota.,SINGLE_STEP,outcome
+Which Count did the Prince strike an arrangement with?,squad,The Black Prince struck an arrangement with the Count of Castile.,SINGLE_STEP,outcome
+From what project did the Apollo 11 crew consist entirely of?,squad,The Apollo 11 crew consisted entirely of NASA's Project Mercury astronauts.,SINGLE_STEP,outcome
+When did Zhu Shijie die?,squad,Zhu Shijie died in 1320.,SINGLE_STEP,outcome
+What was the civil disobedience performed at the test site?,squad,"The atomic bomb test site at Alamogordo, New Mexico, saw protests against nuclear weapons testing through civil disobedience.",SINGLE_STEP,fallback
+What is another term for the pivot mounting?,squad,Flange mount,SINGLE_STEP,outcome
+Who did the Broncos tie with the most sacks in a Super Bowl?,squad,The Rams.,SINGLE_STEP,outcome
+What power is available to Australian private schools but generally not present in public schools?,squad,Private schools in Australia often have more autonomy in curriculum design and hiring teachers.,SINGLE_STEP,outcome
+What has the tendency to increase wages in a field or job position?,squad,Increased demand or scarcity of skilled workers.,SINGLE_STEP,outcome
+What Chinese system did Kublai's government compromise with?,squad,Bureaucratic Civil Service Examination System,SINGLE_STEP,outcome
+What is tuition for 2012 - 13 year at Harvard? ,squad,"Tuition for the 2012-13 academic year at Harvard was approximately $39,500 for domestic students and $57",SINGLE_STEP,outcome
+How many tons of live plants were found to live in one square kilometer of the Amazon rainforest in 1999?,squad,Over 400 tons,SINGLE_STEP,fallback
+When was consumption inequality lower than it had been in 1986?,squad,2017,SINGLE_STEP,outcome
+On what date did the first railway trip in the world occur?,squad,On 7 September 1825.,SINGLE_STEP,outcome
+When did the Yuan begin using bronze printing plates for its money?,squad,The Yuan dynasty began using bronze printing plates for its money in the 13th century.,SINGLE_STEP,outcome
+Who ends up getting more of the teacher's resources in this scenario?,squad,The student who studies harder and uses the resources effectively.,SINGLE_STEP,outcome
+Who made their Super Bowl commercial debut with Nintendo?,squad,Taylor Swift,SINGLE_STEP,outcome
+Which Treaty protects the freedom of establishment and the freedom to provide services?,squad,Treaty on the Functioning of the European Union (TFEU),NO_RETRIEVAL,outcome
+Constitutional impasse is different from civil disobedience because does not include what type of person?,squad,"Constitutional impasse includes people who follow the law, while civil disobedience involves non-compliance with the law.",SINGLE_STEP,outcome
+"While producing oxygen, what gas does a zeolite sieve absorb?",squad,Carbon dioxide.,SINGLE_STEP,outcome
+What element makes up almost half of the earth's crust by mass?,squad,Oxygen,NO_RETRIEVAL,outcome
+Why do carotenoids make leaves change color in the fall?,squad,Carotenoids become more prominent as chlorophyll breaks down in cooler temperatures.,SINGLE_STEP,fallback
+What plants don't need light to make chloroplasts?,squad,"Some algae and certain types of bacteria can produce chlorophyll without light, but they still require light for photosynthesis once chloroplasts are formed.",SINGLE_STEP,fallback
+Where can the Treatise be found?,squad,In libraries or digital archives.,SINGLE_STEP,fallback
+Who was given the highlights of most of the matches?,squad,Match analysts or commentators.,SINGLE_STEP,fallback
+Where does the Rhine begin? ,squad,The Rhine begins in the Alps in Germany.,SINGLE_STEP,fallback
+ABC had secondary status on the existing stations in what Ohio town?,squad,Ashtabula,SINGLE_STEP,outcome
+What did this help accomplish?,squad,It improved efficiency and effectiveness.,SINGLE_STEP,fallback
+How many large public parks does Fresno have?,squad,Fresno has several large public parks.,SINGLE_STEP,outcome
+Who was an important early figure in the Islamic revival in India?,squad,Syed Ahmad Khan,SINGLE_STEP,outcome
+Why was the 36 acres leased?,squad,To establish a school for formerly enslaved people.,SINGLE_STEP,outcome
+Who did BSkyB compete with initially?,squad,Other pay-TV providers and satellite broadcasters.,SINGLE_STEP,outcome
+What is an interdenominational group composed of various churches to promote the Gospel throughout the world?,squad,World Council of Churches,SINGLE_STEP,outcome
+Who won Super Bowl XLIX?,squad,New England Patriots,NO_RETRIEVAL,outcome
+How many people died of plague in Paris in 1466?,squad,No specific number is known for the exact death toll in 1466.,SINGLE_STEP,outcome
+What service is a VideoGuard UK equipped receiver dedicated to decrypt?,squad,DVB (Digital Video Broadcasting) content.,SINGLE_STEP,outcome
+How much did Capital Cities Communications purchase ABC and its properties for?,squad,$3.6 billion,SINGLE_STEP,outcome
+Who else did DATNET 1 refer to ,squad,None; DATNET 1 was a specific network.,SINGLE_STEP,fallback
+What do all member states agree takes precedence over national law?,squad,International law,SINGLE_STEP,outcome
+What is the Scottish Parliament currently in the fourth of?,squad,session,NO_RETRIEVAL,outcome
+Who did the Broncos prevent from going to the Super Bowl?,squad,Arian Foster,SINGLE_STEP,fallback
+What monarchy did western troops protect?,squad,The Abkhazian monarchy.,SINGLE_STEP,outcome
+Who broadcast the Super Bowl on TV?,squad,NBC broadcast the Super Bowl on TV.,SINGLE_STEP,outcome
+Long-lived memory cells can remember previous encounters with what?,squad,Pathogens.,MULTI_STEP,outcome
+The UMC supports federal funding for research on embryos created for what purpose?,squad,The UMC opposes federal funding for research on embryos created specifically for research purposes.,NO_RETRIEVAL,outcome
+When was Mueller announced and appointed as Deputy Associate Administrator?,squad,2017,SINGLE_STEP,outcome
+What year did the the case go before the supreme court?,squad,2012,SINGLE_STEP,fallback
+What is the name of the winter festival held in January that is based on fitness? ,squad,Winter Fitness Festival,SINGLE_STEP,outcome
+Which Germans could understand the language Luther used?,squad,German-speaking Christians.,SINGLE_STEP,outcome
+What is the eukaryotic parasite responsible for malaria known as?,squad,Plasmodium,SINGLE_STEP,outcome
+What health issue did Tesla suffer?,squad,Tesla suffered from epilepsy.,MULTI_STEP,outcome
+What types of medications do specialty pharmacies stock?,squad,"Specialty pharmacies stock a wide range of medications, often for rare diseases or complex conditions, including biologics, immunosuppressants, chemotherapy drugs,",SINGLE_STEP,fallback
+What is a local pastor's official title?,squad,Reverend,SINGLE_STEP,outcome
+What is another term for Tesla's visualization ability?,squad,Clairvoyance,SINGLE_STEP,fallback
+What is the process of changing light into chemical energy?,squad,Photosynthesis,NO_RETRIEVAL,outcome
+What are the biggest burdens?,squad,"Lack of resources, time constraints, and emotional stress.",SINGLE_STEP,fallback
+What two comedies were featured on ABC's new Wednesday comedy lineup?,squad,"""Brooklyn Nine-Nine"" and ""Fresh Off the Boat""",SINGLE_STEP,outcome
+Some species of beroe have a pair of strips of adhesive cells on the stomach wall. What does it do?,squad,It helps them attach to and consume host organisms.,MULTI_STEP,outcome
+Who did the Mongols bring to China as administrators?,squad,The Mongols brought Chinese administrators to China.,MULTI_STEP,outcome
+What author argues pitching the conscience versus the collective?,squad,Noam Chomsky,SINGLE_STEP,outcome
+"One of the sites, Merceds-Benz Superdome, is located where?",squad,"New Orleans, Louisiana",NO_RETRIEVAL,outcome
+What is the edcuation system currently?,squad,"The education system varies widely by country and region, but generally includes primary, secondary, and tertiary levels with an emphasis on academic learning, vocational training, and sometimes",SINGLE_STEP,fallback
+How many different species of ctenohore are there?,squad,"There are over 10,000 known species of Ctenophora (ctenohores).",SINGLE_STEP,fallback
+When was Johann Tetzel sent by the Roman Catholic Church to Germany to sell indulgences?,squad,1500,SINGLE_STEP,outcome
+Who were the Westwood One sideline announcers?,squad,The Westwood One sideline announcers varied over time and based on the specific events or sports leagues they covered.,SINGLE_STEP,outcome
+Which border does the Rhine flow from the south?,squad,The Rhine flows from the south into the North Sea.,SINGLE_STEP,outcome
+What happened to the East India Trading Company in 1767?,squad,The East India Company was granted a Royal Charter that year.,SINGLE_STEP,outcome
+Who was Kennedy's vice president?,squad,Lyndon B. Johnson,NO_RETRIEVAL,outcome
+What company created Doctor Who?,squad,BBC,SINGLE_STEP,fallback
+"Other than the motion picture and television industry, what other major industry is centered in Los Angeles?",squad,Entertainment industry.,SINGLE_STEP,outcome
+The UMC established and is affiliated with approximately how many colleges and universities in the U.S.?,squad,The University of Michigan (UMC) is affiliated with over 20 colleges and universities in the U.S.,SINGLE_STEP,outcome
+What happened to his lab?,squad,It was destroyed in a fire.,SINGLE_STEP,outcome
+When did Sunday Night Football premiere on NBC?,squad,Sunday Night Football premiered on NBC in 1970.,MULTI_STEP,outcome
+What was the final score for Super Bowl XXXIII?,squad,38-21,SINGLE_STEP,fallback
+The amount of land a country controls is its greatest what?,squad,Asset.,SINGLE_STEP,fallback
+"What additional srevice did BSkyB offer besides HD channels that they claimed offered ""substantially more value""?",squad,Sky+ Extra,SINGLE_STEP,outcome
+What types of preparation do pharmacists have?,squad,"Pharmacists prepare medications, counsel patients, and manage medication regimens.",SINGLE_STEP,fallback
+When did rapid warming begin and help vegetation?,squad,Rapid warming began around the mid-20th century and has helped vegetation.,SINGLE_STEP,outcome
+How long did it take Johnson to respond to Kennedy?,squad,A few days.,SINGLE_STEP,outcome
+What measurement of time is used in polynomial time reduction?,squad,Polynomial time reduction uses polynomial time.,NO_RETRIEVAL,outcome
+What is the receptor that killer T cells use to bind to specific antigens that are complexed with the MHC Class 1 receptor of another cell?,squad,Major Histocompatibility Complex (MHC) Class 1 receptor,MULTI_STEP,outcome
+"Along with poppet valve gears, what type of gears utilized separate admission and exhaust valves to give ideal events?",squad,Wankel rotary engine gears.,SINGLE_STEP,fallback
+When was a patent-sharing agreement signed between Westinghouse Electric and General Electric?,squad,1935,SINGLE_STEP,outcome
+How many Victorians are Buddhist?,squad,Approximately 1% of the Victorian population is Buddhist.,SINGLE_STEP,outcome
+Zones in which mountains are built along convergent tectonic plate boundaries are called what?,squad,Fold zones.,SINGLE_STEP,outcome
+What was compounding seen as being in the locomotive construction industry?,squad,A means to enhance efficiency and productivity.,SINGLE_STEP,outcome
+What is the origin of clinical pharmacy?,squad,Clinical pharmacy originated from the need to improve patient care and drug therapy outcomes.,SINGLE_STEP,outcome
+"Who wrote ""Walking in Fresno?""",squad,Neil Young,SINGLE_STEP,outcome
+What do some believe about this pronunciation?,squad,Some believe it to be incorrect.,SINGLE_STEP,fallback
+Who was the deputy administrator of NASA in 1960?,squad,T. Keith Glennan,MULTI_STEP,outcome
+What is the guidebook for local churches and pastors?,squad,"The Guidebook is typically called ""The Book of Common Prayer.""",SINGLE_STEP,outcome
+Is the UMC pro-life or pro-choice?,squad,Pro-life.,SINGLE_STEP,outcome
+Antigone was a play made by whom?,squad,Antigone was a play written by Sophocles.,NO_RETRIEVAL,outcome
+What is the main component of the aboral organ?,squad,Mushroom body,SINGLE_STEP,outcome
+Hormones released during sleep support the interaction of T-cells and what species?,squad,Hormones released during sleep support the interaction of T-cells and immune responses.,SINGLE_STEP,outcome
+Where does oxygen rank by mass in the planet's biosphere?,squad,Second.,MULTI_STEP,outcome
+What type of sentences were the protesters given?,squad,Imperative sentences.,MULTI_STEP,outcome
+What served as a justification for imposing imperialistic policies on certain peoples or regions?,squad,"Justification often included claims of civilizational superiority and the moral duty to civilize ""savage"" peoples.",SINGLE_STEP,outcome
+"After 1945, what challenged the French empire?",squad,Decolonization movements.,SINGLE_STEP,outcome
+What does the El Centro metropolitan area and San Diego-Carslbad-San Marcos metropolitan area form?,squad,The combined area forms the Southern California metropolitan region.,SINGLE_STEP,outcome
+What are private secondary schools in Germany called?,squad,Gymnasien,SINGLE_STEP,outcome
+what did tesla note the hazards of working with? ,squad,High voltages and electrical arcs.,SINGLE_STEP,outcome
+What British TV network will carry the Super Bowl?,squad,NBC,SINGLE_STEP,outcome
+What satellite enabled Sky Digital to launch an all new digital service?,squad,The satellite enabled by Sky Digital was the Anik F1.,SINGLE_STEP,fallback
+What are some of scientists arguments? ,squad,"Scientists argue about various hypotheses, theories, and interpretations based on evidence and empirical data.",SINGLE_STEP,outcome
+Which country was the last to receive the disease?,squad,"Taiwan Province, China",SINGLE_STEP,fallback
+At the time of Martin Luther what was in demand?,squad,New religious ideas and practices.,SINGLE_STEP,outcome
+How much older was Manning than Newton during Super Bowl 50?,squad,9 years,SINGLE_STEP,outcome
+How many square kilometers of rainforest is covered in the basin?,squad,"140,000",SINGLE_STEP,outcome
+What is missing a theory on quantum gravity?,squad,"A complete, widely accepted theory.",SINGLE_STEP,outcome
+What action by Luther added to antisemitism in Germany?,squad,Luther's writings that portrayed Jews negatively and called for their exclusion.,SINGLE_STEP,outcome
+"According to agreement between Iroquois and British, where was a strong house to be built?",squad,"At present, specific details about such an agreement are not widely documented or confirmed.",SINGLE_STEP,outcome
+"What are the laws of physics of Galileo, in reference to objest in motion and rest?",squad,Objects at rest stay at rest and objects in motion stay in motion with the same speed and in the same direction unless acted upon by an unbalanced force.,NO_RETRIEVAL,outcome
+What is the role of teachers in education?,squad,"To guide learning, facilitate understanding, and inspire students.",SINGLE_STEP,outcome
+What Denver player caught the ball 76 times in the 2015 season?,squad,Avery Bradley,SINGLE_STEP,fallback
+What is a single Plastoglobuli called?,squad,A single plastoglobule is called a plastoglobulus.,NO_RETRIEVAL,outcome
+Who were the defending Super Bowl champions?,squad,The defending Super Bowl champions were the New England Patriots.,NO_RETRIEVAL,outcome
+What increases student's motivation to learn?,squad,"Goal clarity, autonomy, relevance, feedback, challenges, and rewards.",SINGLE_STEP,outcome
+In 1984 Thomas Murphy contacted Leonard Goldenson about merging ABC with what company?,squad,MCA Inc.,SINGLE_STEP,fallback
+How many chloroplasts are in stomatal guard cells?,squad,Stomatal guard cells typically have one chloroplast each.,SINGLE_STEP,outcome
+What physical quantities do not have direction?,squad,Scalar quantities.,NO_RETRIEVAL,outcome
+Who appoints elders?,squad,A council or the community typically appoints elders.,SINGLE_STEP,outcome
+What organization is the IPCC a part of?,squad,United Nations,NO_RETRIEVAL,outcome
+What church in Virginia is maintained by Huguenots as a historic shrine?,squad,"Christ Church, Colonial Beach, Virginia",SINGLE_STEP,outcome
+Where is the oldest pharmacy stated to be located?,squad,"Florence, Italy.",NO_RETRIEVAL,outcome
+What are the three primary expressions used to represent case complexity?,squad,"Three primary expressions for case complexity are load, depth, and width.",SINGLE_STEP,outcome
+What are those with lower incomes often unable to manage?,squad,Basic necessities and savings.,SINGLE_STEP,fallback
+"Living from 973–1048 CE he was one of the earliest Persian geologists, what was his name?",squad,Ibn Sina,SINGLE_STEP,outcome
+"What culture's arrival in Scotland is know as the ""Davidian Revolution""?",squad,"Davidian Revolution refers to the arrival and impact of Scottish culture on the indigenous people of Australia, particularly among the Aboriginal population. However, it's important to note",SINGLE_STEP,outcome
+Where are these animals mostly located?,squad,In various ecosystems around the world.,SINGLE_STEP,fallback
+How are ergänzungsschulen funded?,squad,By private donations and government subsidies.,SINGLE_STEP,outcome
+What was the first international event broadcast by ABC?,squad,The first international event broadcast by ABC was the 1960 Summer Olympics in Rome.,SINGLE_STEP,outcome
+How many intercpetions did Newton have in Super Bowl 50?,squad,Zero interceptions.,SINGLE_STEP,fallback
+When did Barton and Whitfield demand climate research records?,squad,1979,SINGLE_STEP,outcome
+Who designed the iron gates that decorate the new entrance building?,squad,The iron gates were designed by Zaha Hadid.,SINGLE_STEP,outcome
+What does isobaric mean?,squad,Representing points of equal pressure.,SINGLE_STEP,fallback
+"In addition to recirculating water, what do condensers do?",squad,Condensers also transfer heat to the atmosphere.,SINGLE_STEP,fallback
+Who founded the Ming dynasty?,squad,Zhengtong Emperor (Ming Taizu),SINGLE_STEP,fallback
+How many were killed by plague in Naples in 1656?,squad,"Approximately 40,000 people.",SINGLE_STEP,outcome
+What are presented to parliament in addition to the bill itself?,squad,"Motions, amendments, and related documents.",SINGLE_STEP,fallback
+What do some believe the Treaty of Versailles assisted in?,squad,Causing resentment and contributing to World War II.,SINGLE_STEP,outcome
+What is a regulatory factor produced by macrophages?,squad,Cytokines,SINGLE_STEP,outcome
+Students show more interest in classes taught by what type of teachers?,squad,Engaging or passionate teachers.,SINGLE_STEP,outcome
+Survivial is at the heart of what concept for workers?,squad,Survivalism,SINGLE_STEP,fallback
+Which country is not badly hit by the embargo?,squad,Japan,SINGLE_STEP,fallback
+Where was Parliament's temporary home whilst the permanent building was being built?,squad,The House of Commons temporarily occupied the Old House of Lords building.,SINGLE_STEP,outcome
+Time and space are both examples of what type of resource?,squad,Physical resources.,SINGLE_STEP,outcome
+In which year did the V&A opened the first permanent architectural history gallery in the UK?,squad,1932,SINGLE_STEP,outcome
+Which British monarch appears above the frame around the arches and entrance?,squad,Queen Elizabeth II,SINGLE_STEP,outcome
+What was the first problem astronauts encountered during the plugs-out test?,squad,Loss of power and communication.,SINGLE_STEP,outcome
+What Senate committee did Singer speak to in July 2000?,squad,Senate Judiciary Committee,SINGLE_STEP,outcome
+What was the style of Luther's salute at the end of his speech?,squad,Salute was with raised finger (fingertip touching the forehead).,SINGLE_STEP,fallback
+What grew on a global scale as a result of imperialism?,squad,Colonial economies and resource extraction industries.,SINGLE_STEP,outcome
+What is the immune system of the brained known as?,squad,The immune system of the brain is known as the meninges.,SINGLE_STEP,outcome
+"Along with non-governmental and nonstate schools, what is another name for private schools?",squad,Institutional schools,SINGLE_STEP,outcome
+How many types of religious or spiritual teachers are there in Christianity?,squad,"There are various types, including priests, pastors, bishops, and ministers.",MULTI_STEP,outcome
+What was the American Timothy Dexter widely regarded as?,squad,Timothy Dexter was widely regarded as a eccentric and successful merchant.,NO_RETRIEVAL,outcome
+What did Johannes Agricola preach that God's gospel revealed?,squad,Johannes Agricola preached that God's gospel revealed freedom from the bondage of sin and the assurance of salvation through faith in Jesus Christ.,SINGLE_STEP,outcome
+Who is the NFL's vice president of brand and creative?,squad,The NFL's vice president of brand and creative is currently (as of 2023) Brian McCarthy.,SINGLE_STEP,outcome
+What sort of motion did Watt's steam engine continuously produce?,squad,Rotational motion.,SINGLE_STEP,outcome
+Where can you find more information on a country's practices?,squad,"United Nations documents, UNESCO reports, country-specific government websites.",SINGLE_STEP,fallback
+"How much had Westinghouse paid to Tesla, Brown and Peck?",squad,$1 million,SINGLE_STEP,fallback
+What pushed up the Pyrenees?,squad,Tectonic plate movements.,MULTI_STEP,outcome
+Of what is ozone a reactive part of oxygen?,squad,Ozone is a reactive part of molecular oxygen (O₃).,SINGLE_STEP,fallback
+In what part of the city did residents suffer from a lack of city services?,squad,In the outskirts or less developed areas.,SINGLE_STEP,outcome
+How many first downs did Denver have for Super Bowl 50?,squad,Five,SINGLE_STEP,outcome
+Which rival of the Mongols is suspected of inventing the story that Genghis Khan was murdered by a captured princess?,squad,Timur,SINGLE_STEP,outcome
+What can an enthusiastic teacher be to a young student?,squad,A passionate mentor.,SINGLE_STEP,fallback
+what did Tesla think nitrous acid contributed to? ,squad,Tesla did not specifically discuss nitrous acid's contribution.,SINGLE_STEP,outcome
+When was the first known historical reference to immunity?,squad,The first known historical reference to immunity dates back to ancient Greece around 410 BCE.,SINGLE_STEP,outcome
+What does the Secretariat Wing house?,squad,The Secretariat Wing houses government offices and administrative functions.,SINGLE_STEP,outcome
+What is Vision 2030?,squad,Vision 2030 refers to Saudi Arabia's long-term economic and social development plan.,MULTI_STEP,outcome
+In how many countries did Tesla hold patents?,squad,In 32 countries.,SINGLE_STEP,outcome
+What were the reasons why residents moved to the town of Fresno Station?,squad,"Historical development, agricultural growth, and railroad expansion.",SINGLE_STEP,fallback
+What funds cannot be used if a teacher is not registered?,squad,School-provided educational funds.,SINGLE_STEP,outcome
+What caused the spread of the Jacksonville fire in 1901?,squad,Uncontrolled forest fire ignited by lightning.,SINGLE_STEP,outcome
+How long has the concept of legal certainty been recognized as one of the general principles by the EU law?,squad,Since the entry into force of the Lisbon Treaty in 2009.,SINGLE_STEP,outcome
+Nonverbal expressions resulted in what kind of levels of motivation to learn?,squad,High,SINGLE_STEP,outcome
+How many yards was the field goal that made the score 13-7 in Super Bowl 50?,squad,50 yards,SINGLE_STEP,outcome
+What modern company has been notably working on a steam engine using modern materials?,squad,Dremel Technology,SINGLE_STEP,outcome
+When were theories developed suggesting inequality may have some positive effect on economic development?,squad,Theories suggesting inequality might have positive effects on economic development began to develop in the late 20th century.,SINGLE_STEP,outcome
+What series years are available on Blu-ray?,squad,2006-present,SINGLE_STEP,fallback
+When did the exploration of the interior begin?,squad,The exploration of the interior began in the 16th century.,SINGLE_STEP,outcome
+What declaration predicated the emigration of Huguenot refugees?,squad,The Edict of Nantes,NO_RETRIEVAL,outcome
+What is a typical name for learning that is not inside of the classroom?,squad,Out-of-Class Learning,MULTI_STEP,outcome
+What kind of markets did NBC Red serve?,squad,Broadcast television markets.,SINGLE_STEP,outcome
+How many prime numbers exist?,squad,There are infinitely many prime numbers.,NO_RETRIEVAL,outcome
+What helped support the Command Module with a propulsion engine and propellants?,squad,The Service Module.,NO_RETRIEVAL,outcome
+What association did Tesla demonstrate his radio wave theories to?,squad,The New York Academy of Sciences.,MULTI_STEP,outcome
+Who approached the BBC in 1989 about relaunching the show?,squad,David Frost,SINGLE_STEP,outcome
+Why did CBS turn down the pitch for The Untouchables?,squad,CBS turned down the pitch for The Untouchables due to concerns about its potential ratings and network competition.,SINGLE_STEP,outcome
+How do members vote when there is a division?,squad,Members typically vote using a secret ballot or electronic voting system to ensure fairness and anonymity.,SINGLE_STEP,fallback
+What was the only drama extended for a second season for the 2010-11 schedule?,squad,"Without specific information, it's impossible to accurately state which drama was extended for a second season in the 2010-11 schedule.",SINGLE_STEP,outcome
+Prevenient grace allowas those tainted by what to make a choice to accept or reject God's salvation in Christ?,squad,Prevenient grace allows those tainted by sin to make a choice to accept or reject God's salvation in Christ.,NO_RETRIEVAL,outcome
+Who came up with the theory of relativity?,squad,Albert Einstein,NO_RETRIEVAL,outcome
+What has the Court required to be more accessible?,squad,Judicial decisions and legal documents.,SINGLE_STEP,outcome
+Who other than Tesla did Westinghouse consider for the patents?,squad,Edison,SINGLE_STEP,outcome
+colonial rule would be considered what type of imperialism?,squad,Colonial rule would be considered direct imperialism.,SINGLE_STEP,outcome
+When was the first measurement of the value of the Newton Universal Gravitation Constant?,squad,1986,SINGLE_STEP,outcome
+"Along with Canada and the United Kingdom, what country generally doesn't refer to universities as private schools?",squad,Australia,NO_RETRIEVAL,outcome
+What TV station showed the broadcasts of the original Doctor Who series?,squad,BBC Television,MULTI_STEP,outcome
+What language were classes held in at Tesla's school?,squad,English,SINGLE_STEP,outcome
+What did Biraben say about the plague in Europe?,squad,Biraben argued that the Black Death contributed to the demographic crisis and social changes in medieval Europe.,SINGLE_STEP,outcome
+Why was the Rhine regulated? ,squad,To control flooding and improve navigation.,SINGLE_STEP,outcome
+What is violating a law which is not the goal of the protest called?,squad,Obstruction or disruption.,SINGLE_STEP,outcome
+What language other than English has the Scottish Parliament had meetings in?,squad,Scottish Gaelic,NO_RETRIEVAL,outcome
+How high is the highest point in Warsaw?,squad,The highest point in Warsaw is Złota Góra at 120 meters (394 feet) above sea level.,SINGLE_STEP,fallback
+What responsibilities are pharmacists believed to be taking on more in the future?,squad,"Pharmacists are believed to be taking on more responsibilities such as medication management, patient counseling, and health education.",MULTI_STEP,outcome
+Which major cities in Eastern Europe were not destroyed by the Mongol invasion?,squad,"Warsaw, Budapest, Prague",SINGLE_STEP,outcome
+In what language were the classes given?,squad,French,SINGLE_STEP,fallback
+Where was the language Luther used in his translations spoken?,squad,German.,SINGLE_STEP,outcome
+Who mapped the Alta Vista Tract?,squad,The Alta Vista Tract was mapped by the United States Geological Survey (USGS).,SINGLE_STEP,outcome
+What is malum in se considerations?,squad,Mala in se offenses are inherently wrong regardless of social context.,SINGLE_STEP,fallback
+Who was the game's top receiver?,squad,That information depends on the specific game and season being referred to.,SINGLE_STEP,outcome
+What did the Warsaw Confederation formally establish in 1573?,squad,The Warsaw Confederation formally established religious tolerance and the right to participate in the Polish Crown's election of the king without Catholic restrictions.,SINGLE_STEP,outcome
+In 1755 what fort did British capture?,squad,Fort St. Augustine,SINGLE_STEP,outcome
+What does the First Minister deliver at the beginning of each parliamentary year?,squad,State Opening of Parliament,SINGLE_STEP,outcome
+What is the typical annual cost for an Irish private school?,squad,"The typical annual cost for an Irish private school can vary widely depending on the institution and program, but it generally ranges from €10,000 to",SINGLE_STEP,outcome
+Who was the final Prime Minister of East Germany?,squad,Egon Krenz,SINGLE_STEP,fallback
+The Port of Long Beach belongs to which region of California?,squad,The Port of Long Beach is located in the Southern region of California.,NO_RETRIEVAL,outcome
+"Prior to Super Bowl 50, when were the Broncos last there?",squad,2011.,MULTI_STEP,outcome
+What is the only episode released on VCD?,squad,There is no episode released specifically on VCD; DVDs were more common.,MULTI_STEP,outcome
+What are BSkyB's standard definition broadcasts compliant with?,squad,BSkyB's standard definition broadcasts are compliant with DVB-PSIP and MPEG-2 standards.,NO_RETRIEVAL,outcome
+"After rejecting compulsory confession, what did Luther call for?",squad,Luther called for the right to resist and the freedom of conscience.,SINGLE_STEP,outcome
+What term resulted from Dioscorides' book?,squad,Materia Medica,NO_RETRIEVAL,outcome
+What is the gender income inequality in Bahrain?,squad,"The gender income inequality in Bahrain is significant, with women generally earning less than men for similar work.",SINGLE_STEP,outcome
+What was Nikola Tesla's ethnicity?,squad,Serbian-American,SINGLE_STEP,outcome
+What was the secondary endosymbiotic event?,squad,The secondary endosymbiotic event resulted in the chloroplasts of algae and plants.,SINGLE_STEP,fallback
+Who was hired to produce ABC's 2001-02 identity?,squad,Tom Ford,SINGLE_STEP,outcome
+What were the two forms of environmental determinism?,squad,Geographical determinism and climatic determinism.,SINGLE_STEP,outcome
+What device is used to test the magnetic attractions involved in liquid oxygen?,squad,Magnetometer,SINGLE_STEP,outcome
+Colonialism often means a country doing what?,squad,Colonialism often means one country controlling and exploiting resources and people of another country.,SINGLE_STEP,outcome
+Where did Tesla look for investors prior to WWI?,squad,New York City,SINGLE_STEP,outcome
+What is essential for the successful execution of a project?,squad,"Clear objectives, effective planning, team collaboration, resource management, and flexibility.",NO_RETRIEVAL,outcome
+What are the most passes that Greg Olsen has had?,squad,Greg Olsen has had 10 career NFL receptions.,SINGLE_STEP,outcome
+Who was the star of The Sarah Jane Adventures?,squad,Matteo Guidicelli,SINGLE_STEP,outcome
+What offers a conceptual definition of force?,squad,Newton's Second Law of Motion.,SINGLE_STEP,outcome
+What produces the high levels of oxygen on Earth?,squad,Photosynthesis.,SINGLE_STEP,fallback
+How many years have imperialistic practices existed?,squad,Imperialistic practices have existed for centuries.,SINGLE_STEP,outcome
+ableine was retired and the new platform is called ,squad,"Ableine was retired, and the new platform is called Able.",SINGLE_STEP,outcome
+MHC antigens on normal body cells are recognized by what receptor on NK cells?,squad,KIR receptors,SINGLE_STEP,outcome
+Infrastructure is often called what?,squad,Stack.,SINGLE_STEP,outcome
+Tibetan art from which period is represented in the V&A collection?,squad,Tibetan art from the 19th and early 20th centuries is represented in the V&A collection.,MULTI_STEP,outcome
+What was the catalyst that created greater interest in renewable resources?,squad,Increased awareness of climate change and environmental impacts.,MULTI_STEP,outcome
+What relative of Doctor Who traveled with him in the early episodes?,squad,River Song,SINGLE_STEP,outcome
+How long were the fighters of the Warsaw Ghetto Uprising able to hold out?,squad,For about one month.,SINGLE_STEP,outcome
+When was Europe's last major epidemic?,squad,The last major epidemic in Europe occurred during the 1347-1351 Black Death pandemic.,SINGLE_STEP,outcome
+During what time did the rainforest spanned a narrow band? ,squad,During the Miocene epoch.,SINGLE_STEP,outcome
+To what century did the idea of ether belong?,squad,19th century,NO_RETRIEVAL,outcome
+When did the theater in Newcastle originally open?,squad,The theater in Newcastle originally opened in 1766.,SINGLE_STEP,fallback
+The V&A library's collection of illuminated manuscripts are dated to which centuries?,squad,12th to 16th centuries.,NO_RETRIEVAL,outcome
+From whom did the Huguenots in South Carolina purchase land from?,squad,Indians,SINGLE_STEP,outcome
+When did building activity occur on St. Kazimierz Church?,squad,Building activity on St. Kazimierz Church occurred during the 14th century.,SINGLE_STEP,outcome
+What was Tesla's brother's name?,squad,Benjamin Tesla,SINGLE_STEP,outcome
+What are the core treaties that the primary law of the EU consists of?,squad,The core treaties that form the primary law of the EU are the Treaty on European Union (TEU) and the Treaty on the Functioning of the European Union,SINGLE_STEP,outcome
+What does stong force act upon?,squad,Nucleons (protons and neutrons).,SINGLE_STEP,outcome
+What type of prime distribution is characterized about x/log x of numbers less than x?,squad,Prime number theorem,SINGLE_STEP,fallback
+What did Tesla do for a job that paid two dollars a day?,squad,Tesla worked as an electrician's helper.,SINGLE_STEP,fallback
+How many modern types of primality tests for general numbers n are there? ,squad,"Several hundred, with the most common being the Miller-Rabin test and AKS primality test.",SINGLE_STEP,outcome
+Which article allows the European Council to govern mergers between firms?,squad,Article 58 of the Merger Regulation.,SINGLE_STEP,fallback
+What decreased in number between 1984 and 1991?,squad,CFCs (Chlorofluorocarbons),MULTI_STEP,outcome
+"When forces are acting on an extended body, what do you need to account for motion effects?",squad,Moments (torques).,MULTI_STEP,outcome
+When did BSkyB announce it's intention to replace it's free-to-air digital channels?,squad,2016,SINGLE_STEP,outcome
+What is the result of the Calvin cycle?,squad,Carbon fixation and production of glucose.,SINGLE_STEP,fallback
+Developments in which scientists influenced the creation of pharmacology in medieval Islam?,squad,"Al-Razi, Avicenna (Ibn Sina), Al-Zahrawi (Abulcasis)",SINGLE_STEP,fallback
+What do larger fortunes generate?,squad,"Opportunities, influence, and resources.",SINGLE_STEP,outcome
+How many square kilometres of the Amazon forest was lost by 1991?,squad,"268,000",SINGLE_STEP,fallback
+What is the name of the process which confirms the primality of a number n?,squad,Primality test,SINGLE_STEP,fallback
+Where do other tourist events happen in Victoria outside of Melbourne?,squad,"Other tourist events happen in various regions of Victoria, such as Geelong, Bendigo, and Phillip Island.",NO_RETRIEVAL,outcome
+Who has the record of being the oldest quarter back in any Super Bowl game?,squad,Buddy Parker,SINGLE_STEP,outcome
+What is the French name for the Rhine? ,squad,Rhin,NO_RETRIEVAL,outcome
+What followed the late local programming after Super Bowl 50?,squad,Late local programming followed after Super Bowl 50.,SINGLE_STEP,outcome
+What does a teacher teach in primary school?,squad,"Basic reading, writing, mathematics, and foundational subjects.",SINGLE_STEP,outcome
+Where did the first shipment of minerals ship from?,squad,Australia,SINGLE_STEP,fallback
+Why did al-Qaeda tell ISIL to take a hike?,squad,To avoid direct confrontation and maintain operational security.,SINGLE_STEP,outcome
+What's the name of Newcastle's gay club scene?,squad,Newcastle Queer Club Scene,SINGLE_STEP,outcome
+Who designed the ceiling and stained-glass windows of the Green Dining Room?,squad,Thomas Seaver,SINGLE_STEP,fallback
+How is the plaster replica of Verrocchio's David displayed in the Cast Courts?,squad,The plaster replica of Verrocchio's David is displayed in the Cast Courts as a cast replica.,SINGLE_STEP,outcome
+Why did Temüjin kill those of Jamukha's followers that had betrayed their leader?,squad,To eliminate threats and strengthen his power.,MULTI_STEP,outcome
+What was the name of the Doctor Who-related song released in 1988?,squad,"""Doctor Who – The Ultimate Journey""",SINGLE_STEP,outcome
+What is the chemical that mediates Type 1 hypersensitivity?,squad,Histamine,SINGLE_STEP,outcome
+When was the mausoleum returned to the Lord's Enclosure in Mongolia?,squad,1964,SINGLE_STEP,outcome
+Vaginal secretions serve as a chemical protective barrier following what?,squad,"Following ovulation and fertilization, vaginal secretions serve as a chemical protective barrier.",SINGLE_STEP,outcome
+What do beroids typically eat?,squad,Beroids typically eat bacteria.,SINGLE_STEP,outcome
+"In 1951, rumors claimed that ABC might be sold to what network?",squad,CBS,NO_RETRIEVAL,outcome
+What agency did the Spanish version of the Super Bowl?,squad,Lançado por la Asociación Nacional de Football Americano de España (ANFAE),SINGLE_STEP,fallback
+What did DECnet originally do ,squad,DECnet originally facilitated network communication between Digital Equipment Corporation's VAX computers.,SINGLE_STEP,fallback
+What was Michael Eisner's main credit in his time at ABC?,squad,His main credit was transforming ABC into one of the most profitable networks.,SINGLE_STEP,outcome
+In what year did Tesla receive a Nobel Prize bid?,squad,Tesla never received a Nobel Prize bid.,SINGLE_STEP,outcome
+"What was it called when Tesla lit a wireless gas-discharge lamp using a high-frequency, high-voltage alternating current?",squad,Tesla's Wireless Lightbulb Experiment,SINGLE_STEP,outcome
+Why is the need for acceptance of punishment needed?,squad,It ensures accountability and justice.,SINGLE_STEP,fallback
+What does  mnemiopsis eat?,squad,Ciliates and small crustaceans.,SINGLE_STEP,fallback
+What is similar to vocational training?,squad,Professional development programs,SINGLE_STEP,fallback
+Who presided over the assembly?,squad,The assembly was presided over by [insert name if provided or relevant context].,SINGLE_STEP,fallback
+What did Tesla work as after dropping out? ,squad,Inventor and Engineer,SINGLE_STEP,fallback
+Why have modern Lutherans stopped using the hymn?,squad,Modern Lutherans have not universally stopped using the hymn; this would depend on specific congregations and traditions.,SINGLE_STEP,outcome
+When was Temüjin's half-brother Begter killed?,squad,1218,SINGLE_STEP,outcome
+In what geographical portion of Wales is Abercynon located?,squad,Abercynon is located in the Rhondda Valley in south Wales.,NO_RETRIEVAL,outcome
+What may be named after a biblical figure?,squad,The Book of Revelation.,MULTI_STEP,outcome
+How much time was left in the quarter when Stewart got the touchdown?,squad,Not enough information provided.,SINGLE_STEP,fallback
+Who hosts the weeknight talk show featured on ABC networks?,squad,Jimmy Kimmel,NO_RETRIEVAL,outcome
+How high are many of the buildings with turrets?,squad,Varies; often several stories.,SINGLE_STEP,outcome
+What is another name to describe the science of teaching?,squad,Pedagogy,NO_RETRIEVAL,outcome
+How many sacks did Derek Wolfe register?,squad,Derek Wolfe registered 135.5 sacks in his NFL career.,SINGLE_STEP,outcome
+What book was Iqbal's seven English lectures published as?,squad,"""Essays on Islam""",SINGLE_STEP,outcome
+Dendritic cells are named that because they resemble what?,squad,Tree branches.,SINGLE_STEP,outcome
+What is key to getting the skills needed for high demand jobs?,squad,Continuous learning and skill development.,SINGLE_STEP,outcome
+Who is suited to interpret the Treaties?,squad,Legal experts or interpreters.,SINGLE_STEP,outcome
+What percentage of primary schools used Welsh primarily or exclusively?,squad,20%,SINGLE_STEP,outcome
+What makes the Wells Fargo Center stand out?,squad,"Its size, capacity, and history of hosting major events.",MULTI_STEP,outcome
+Funding limitations allowed CSNET to be what ,squad,privately funded,SINGLE_STEP,fallback
+What is the system by which prokaryotes retain phage gene fragments that they have previously come in contact with?,squad,Horizontal gene transfer,SINGLE_STEP,outcome
+What art forms did Luther use to connect his hymns?,squad,Music and poetry.,SINGLE_STEP,outcome
+Who was named president of Disney-ABC television group in 2004?,squad,Arturo Vignatti,SINGLE_STEP,outcome
+Who was the Tangut general who fought Genghis Khan at Deshun?,squad,Zhang Shijie,SINGLE_STEP,outcome
+Who was Cromwell's allies?,squad,Cromwell's allies included Parliamentarians and some Royalists who opposed King Charles I.,SINGLE_STEP,outcome
+What dynasty did Genghis Khan plan to attack after conquering Western Xia?,squad,The Jin Dynasty.,NO_RETRIEVAL,outcome
+Where were British defeated in Canada?,squad,Battle of Quebec,SINGLE_STEP,outcome
+"Which of ABC's main production facilities is located in Hollywood, CA?",squad,ABC Studios,SINGLE_STEP,outcome
+"What Apollo mission was first cancelled due to not being needed to build the Skylab in space, as it was pre-built on the ground?",squad,Apollo 13,SINGLE_STEP,outcome
+What trading company helped settle Huguenots near the Cape?,squad,De Beers Group,SINGLE_STEP,fallback
+Who was Kublai Khan's grandfather?,squad,"Kublai Khan's grandfather was Tolui, a son of Genghis Khan.",NO_RETRIEVAL,outcome
+In what does the doctrine of legitimate expectations have roots?,squad,"In common law jurisdictions, it has roots in judicial discretion and precedent.",SINGLE_STEP,outcome
+What is the principle about relating spin and space variables?,squad,Spin-statistics theorem,SINGLE_STEP,outcome
+When was Manning picked #1 in the NFL Draft?,squad,2011,SINGLE_STEP,outcome
+Who brought together the former rivals at the signing ceremony?,squad,Alibaba and Ant Group,SINGLE_STEP,outcome
+Who were the sculpture galleries that opened in 2006 named after?,squad,The Frick Collection sculpture galleries.,SINGLE_STEP,outcome
+What might starch grains be a side effect of?,squad,Starch grains are not typically a side effect; they are plant cell components.,SINGLE_STEP,fallback
+What types of diseases are specialty drugs often used against?,squad,"Specialty drugs are often used against rare diseases, chronic conditions, and cancers.",SINGLE_STEP,outcome
+How long is the Upper Rhine Plain?,squad,The Upper Rhine Plain extends approximately 150 kilometers (93 miles) from Basel to Karlsruhe.,SINGLE_STEP,outcome
+What is the citation for the Pierce v. Society of Sisters case?,squad,"Pierce v. Society of Sisters, 268 U.S. 510 (1925).",NO_RETRIEVAL,outcome
+In 1785 James Hutton presented what paper to the Royal Society of Edinburgh?,squad,Theory of the Earth,NO_RETRIEVAL,outcome
+"The Kuznets curve says with economic development, inequality will decrease after what?",squad,peak inequality,SINGLE_STEP,fallback
+What does the pleurobrachia have on opposite sides of its body?,squad,Two eyes,SINGLE_STEP,fallback
+Construction involves the translation of what?,squad,Plans into physical structures.,SINGLE_STEP,fallback
+UChicago claims to have what kind of learning experience compared to other universities? ,squad,Innovative and interdisciplinary.,SINGLE_STEP,outcome
+What is NSFNET,squad,NSFNET was the primary network of the National Science Foundation's high-speed research and education network.,SINGLE_STEP,fallback
+What did Tesla dress in while in Tominaj?,squad,I don't have specific information about Tesla dressing in Tominaj. This appears to be an unusual or fictional scenario.,SINGLE_STEP,outcome
+What park covers an area of 76 ha.?,squad,Jiading New District Park,SINGLE_STEP,outcome
+Which article made provisions for concentrations or mergers and the abuse of a dominant position by companies?,squad,Article 132 of the Treaty on the Functioning of the European Union (TFEU),SINGLE_STEP,outcome
+What device is used to treat various conditions such as carbon monoxide poisoning?,squad,Portable Carbon Monoxide Detector,SINGLE_STEP,fallback
+The Bruins belong to which college?,squad,Boston University,SINGLE_STEP,outcome
+What geometric shape is used in equations to determine net force?,squad,Vector,MULTI_STEP,outcome
+What was the king's first approach to the Huguenots?,squad,The king initially sought to restrict their rights and privileges.,SINGLE_STEP,fallback
+What is a main duty of the GPhC?,squad,Regulating pharmacists and pharmacy practice in the UK.,SINGLE_STEP,fallback
+"What was originally on the spacesuits prior to the clear ""fishbowl"" helmet?",squad,Glass or plexiglass panels,SINGLE_STEP,fallback
+What was the memoir entitled which was submitted to the American Philosophical Society?,squad,"""Private Papers of Henry Adams""",SINGLE_STEP,outcome
+The cities of Los Angeles and San Diego are a part of which state?,squad,California.,NO_RETRIEVAL,outcome
+What do counties sometimes offer to get more teachers?,squad,"Incentives such as relocation assistance, housing grants, and loan forgiveness programs.",SINGLE_STEP,outcome
+A problem set that that is hard for the expression NP can also be stated how?,squad,As an NP-hard problem.,NO_RETRIEVAL,outcome
+"Why did Saudi Arabia try to increase production, and reduce profits for high cost producers?",squad,To undercut competitors and gain market share.,SINGLE_STEP,outcome
+How significant was the transfer of disease through fleas?,squad,Significant; it facilitated widespread pandemics like the Black Death.,SINGLE_STEP,outcome
+The adaptive immune system must distinguish between what types of molecules?,squad,The adaptive immune system must distinguish between self and non-self molecules.,NO_RETRIEVAL,outcome
+"How many Medieval Warm Period reconstructions covered 1,000+ years?",squad,None.,SINGLE_STEP,fallback
+Who transported Tesla's ashes from the US.,squad,Alfredo Zitarrosa.,SINGLE_STEP,outcome
+"Soon after gaining Florida, what did the English do?",squad,The English established settlements in Florida.,SINGLE_STEP,outcome
+What scale does trade liberalization shift economic inequality from?,squad,Downscale,SINGLE_STEP,outcome
+What does the WG I Summary for Policymakers report say human activities are doing to greenhouse gases?,squad,WG I Summary for Policymakers reports that human activities are increasing concentrations of greenhouse gases.,SINGLE_STEP,outcome
+What are the agents the immune system detects known as?,squad,Antigens,SINGLE_STEP,outcome
+Why might rats not be responsible for the plague?,squad,Rats were likely vectors but not the direct cause of the plague.,SINGLE_STEP,fallback
+What kind of structure is a carboxysome?,squad,Proteinaceous organelle,SINGLE_STEP,fallback
+Where are Jersey and Guernsey,squad,"Jersey and Guernsey are islands located in the English Channel, off the coast of Normandy, France.",SINGLE_STEP,outcome
+In what year did Roger Goodell call Super Bowl 50 'an important game for us as a league'?,squad,2015,SINGLE_STEP,outcome
+Which MVP honoree died in 2001?,squad,Steve Jobs,SINGLE_STEP,outcome
+What are the biggest game animals of Kenya called?,squad,"Big Five: Lion, Elephant, Cape Buffalo, Leopard, Rhinoceros.",NO_RETRIEVAL,outcome
+"At first, what did oxygen and iron combine to form?",squad,Iron oxide,SINGLE_STEP,outcome
+What caused the US public to condemn the occupation of the philippines?,squad,"The US occupation of the Philippines was condemned for its colonial policies, human rights abuses, and economic exploitation.",SINGLE_STEP,fallback
+When did Tamara marry a lawyer?,squad,Tamara married a lawyer in 2015.,SINGLE_STEP,outcome
+What does 'Pax Mongolica' mean?,squad,Peace of the Mongols,SINGLE_STEP,outcome
+Which German architect was asked to produce a design for the museum?,squad,Mies van der Rohe,SINGLE_STEP,outcome
+In what city is Rangi Ruru Girls' School?,squad,Wellington,SINGLE_STEP,outcome
+What is the most important problem in the United States and elsewhere?,squad,Inequality and economic disparity.,SINGLE_STEP,outcome
+"When are inequalities in wealth justified, according to John Rawls?",squad,"According to John Rawls, inequalities in wealth are justified only if they benefit the least advantaged members of society.",SINGLE_STEP,outcome
+"What commonality do alternate machine models, such as random access machines, share with Turing machines?",squad,They both have the capability to simulate any Turing machine.,SINGLE_STEP,outcome
+What instrument became a national instrument in Germany?,squad,Lute,SINGLE_STEP,outcome
+When did Tesla come to the US?,squad,1884,NO_RETRIEVAL,outcome
+What is the full name of the ASER?,squad,All India Survey on Education,SINGLE_STEP,fallback
+Plants lack what kind of immune cells?,squad,Plants lack true immune cells.,SINGLE_STEP,outcome
+What writing inspired the name Great Yuan?,squad,"The name ""Great Yuan"" was inspired by the concept of the Yuan Dynasty in China.",SINGLE_STEP,fallback
+What denomination is the Diocesan School for Girls in Auckland affiliated with?,squad,Anglican,NO_RETRIEVAL,outcome
+Where are some of the best medical facilities in East-Central Europe located?,squad,"Warsaw, Budapest, and Prague are some of the best medical facilities in East-Central Europe.",NO_RETRIEVAL,outcome
+What is the temperature in the highest portion of the mountain range in winter?,squad,It varies greatly depending on location and elevation.,SINGLE_STEP,outcome
+What is used to decide a teacher's salary?,squad,"Educational qualifications and experience, along with performance evaluations.",SINGLE_STEP,fallback
+What minimalist composer is also a university graduate?,squad,Iannis Xenakis,SINGLE_STEP,outcome
+"When was Apollo 6, or AS-502, tested?",squad,"April 4, 1968",NO_RETRIEVAL,outcome
+What does legend say Genghis Khan used to obliterate the Kharezmid emporer's place of birth?,squad,Legend says Genghis Khan used a giant cauldron to obliterate the Khwarezmian emperor's place of birth.,SINGLE_STEP,outcome
+What player played in the Super Bowl after breaking his arm two weeks before?,squad,Deion Sanders,SINGLE_STEP,outcome
+What are the main threats facing the Amazon rainforest in the current century?,squad,"Deforestation, climate change, illegal logging, agricultural expansion, mining activities, and wildfires.",SINGLE_STEP,fallback
+When did Philip I convene an assembly to set doctrine in the Protestant states?,squad,1567,SINGLE_STEP,outcome
+What Apollo mission was the sixth moon landing?,squad,Apollo 12,SINGLE_STEP,outcome
+Where did Tesla live for much of his life?,squad,New York City,SINGLE_STEP,fallback
+What number did early Greeks not regard as a true number?,squad,Irrational numbers.,SINGLE_STEP,outcome
+How many were killed by plague in Italy in the 17th century?,squad,Approximately 1 million people.,SINGLE_STEP,outcome
+When was an extended episode of Doctor Who shown?,squad,2017,SINGLE_STEP,outcome
+What programs are broadcast from the Times Square Studios for ABC?,squad,Various ABC television shows and specials.,SINGLE_STEP,outcome
+Very small markets had to wait until what decade to support an ABC affiliate?,squad,1980s,NO_RETRIEVAL,outcome
+In what episode did Doctor Who acknowledge having had a brother?,squad,"In ""The Empty Child"" and ""The Empty Glass.""",SINGLE_STEP,outcome
+What kind of climate does southern California maintain?,squad,Mediterranean climate.,NO_RETRIEVAL,outcome
+Which animal that lives in the Amazon river may produce a deadly shock?,squad,Electric eel,SINGLE_STEP,fallback
+What does turning sideways protect chloroplasts from?,squad,Excessive light intensity.,SINGLE_STEP,outcome
+How is packet switching characterized ,squad,"Packet switching is characterized by the division of data into packets, each with its own header containing destination and source information, which are then transmitted independently over the network.",SINGLE_STEP,outcome
+How long has Radio Tyneside been the voluntary hospital radio service?,squad,Radio Tyneside has been the voluntary hospital radio service since 1983.,SINGLE_STEP,outcome
+What gained ground when Arab nationalism suffered?,squad,Pan-Arabism,SINGLE_STEP,fallback
+"What did the hymn, Aus tiefer Not express?",squad,Hope and deliverance from despair.,MULTI_STEP,outcome
+What did Tesla design several experimental setups to produce? ,squad,Lightning bolts and high-frequency electrical phenomena.,SINGLE_STEP,outcome
+What does the beroe do when pursuing prey?,squad,The beroe pursues prey using its tentacles to capture and hold onto it.,SINGLE_STEP,fallback
+The perceived British policy of being hands off of its Muslim population has resulted in what derogatory term for London?,squad,Blighty,SINGLE_STEP,outcome
+What is the common coastal pleurobrachia called?,squad,Common starfish,SINGLE_STEP,outcome
+Who kidnapped Temüjin's first wife soon after they were married?,squad,Börte's brother Ordai,SINGLE_STEP,outcome
+What is another word for inclusions in sedimentary rocks? ,squad,Pencils,SINGLE_STEP,outcome
+Where is the Tyneside Bar located?,squad,"The Tyneside Bar is located in Newcastle upon Tyne, England.",SINGLE_STEP,fallback
+Who was the first Huguenot to arrive at the Cape of Good Hope?,squad,Jean de Léry,SINGLE_STEP,outcome
+Who owns the rail lines in Victoria?,squad,The Victorian Railways Corporation owns the rail lines in Victoria.,SINGLE_STEP,outcome
+What kind of non-peer-reviewed sources does the IPCC use?,squad,"Corporate reports, industry studies, and government documents.",SINGLE_STEP,outcome
+Where did Maududi's books place Islam?,squad,In a conservative and fundamentalist manner.,SINGLE_STEP,outcome
+What was Maria Curie the first female recipient of?,squad,Nobel Prize,NO_RETRIEVAL,outcome
+Who did the geographic scholars work for? ,squad,"Geographic scholars often worked for governments, educational institutions, or private companies.",SINGLE_STEP,fallback
+Which wireless company had exclusive streaming rights on mobile phones?,squad,T-Mobile,SINGLE_STEP,outcome
+How much gold did Victoria produce in the years of 1851-1860?,squad,"Victoria did not produce gold; she reigned from 1837 to 1901, and significant gold production occurred during the California Gold Rush",SINGLE_STEP,outcome
+Philo of Byzantium ____ surmised that air converted to fire,squad,Philo of Byzantium surmised that air converted to fire.,SINGLE_STEP,outcome
+What feature of the Amazon made people believe it couldn't have many inhabitants?,squad,Size and isolation.,SINGLE_STEP,outcome
+What is the most feared condition that divers want to avoid?,squad,Decompression sickness.,SINGLE_STEP,outcome
+What unintended development did the relationship with the elector have on church government?,squad,It led to increased secular influence in church governance.,SINGLE_STEP,outcome
+What is the intrisic angular variable called when particles act upon one another?,squad,Angular momentum.,SINGLE_STEP,outcome
+What were high court proceedings being held about?,squad,"High court proceedings varied widely; they could be about various legal matters such as civil disputes, criminal cases, or constitutional issues.",SINGLE_STEP,outcome
+Which caused the reform to never come into force?,squad,Opposition and resistance from conservative elements.,SINGLE_STEP,outcome
+When did Ronald Robinson die?,squad,"Ronald Robinson died on February 17, 1964.",SINGLE_STEP,outcome
+Oxygen is released in cellular respiration by?,squad,Mitochondria.,MULTI_STEP,outcome
+In what series did ABC present it's 1950s film adaptations in?,squad,"The list of ABC's 1950s film adaptations was presented in the anthology television series ""Lux Video Theatre.""",SINGLE_STEP,outcome
+What was the name of New Orleans' superdome at the time that Super Bowl 50 took place?,squad,The Superdome,MULTI_STEP,outcome
+Where is the Apostles located?,squad,"The Apostles Column is located in Place de la Concorde, Paris, France.",SINGLE_STEP,fallback
+"The Peruvian Amazon indigienous people are one group struggling in the Amazon, what is another group?",squad,The Asháninka people.,SINGLE_STEP,outcome
+How long would this coalition last?,squad,It depends on various factors.,SINGLE_STEP,outcome
+What was the Marburg Colloquy meant to establish? ,squad,A theological conference to reconcile Lutheran and Roman Catholic views.,SINGLE_STEP,outcome
+What did AUSTPAC support ,squad,AUSTPAC supported joint military exercises and cooperation between Australia and the United States.,SINGLE_STEP,outcome
+What is one issue that adds to the complexity of a pharmacist's job?,squad,Prescribing accuracy and managing medication interactions.,SINGLE_STEP,fallback
+Who won Super Bowl 50?,squad,San Francisco 49ers,MULTI_STEP,outcome
+What contributed to the decreased inequality between trained and untrained workers?,squad,Increased access to education and training programs.,SINGLE_STEP,fallback
+What are those with lower incomes less likely to have in order to prepare for the future?,squad,Savings or financial reserves.,SINGLE_STEP,outcome
+When did Obama finally visit Kenya?,squad,Obama visited Kenya for the first time in 2010.,SINGLE_STEP,outcome
+What was the name of the Norman castle?,squad,Mont Saint-Michel,SINGLE_STEP,outcome
+What does an increase in the income share of the bottom 20 percent of people of a society result in?,squad,Redistribution benefits lower-income groups.,SINGLE_STEP,outcome
+What is the translation of Oude Maas?,squad,Old Meuse,NO_RETRIEVAL,outcome
+What spelling of Genghis most closely matches its probable pronunciation?,squad,Genghis,SINGLE_STEP,outcome
+What percentage of Newcastle's population is it believed the Bolivians account for?,squad,"A small percentage, likely less than 1%.",NO_RETRIEVAL,outcome
+Who is Kearney Boulevard named after?,squad,Kearney Boulevard is named after General Philip Kearny.,SINGLE_STEP,outcome
+A growing number of new forms of procurement involves what?,squad,Digital and online platforms.,SINGLE_STEP,outcome
+What was Tymnet,squad,Tymnet was a commercial packet-switching network operated by Bell Labs for the U.S. Department of Defense.,SINGLE_STEP,outcome
+ Where did he claim he would transport energy to?,squad,To the moon.,SINGLE_STEP,fallback
+When was the Riemann hypothesis proposed?,squad,The Riemann hypothesis was proposed in 1859.,NO_RETRIEVAL,outcome
+How many paintings did John Sheeshanks give to the museum?,squad,Ten,SINGLE_STEP,fallback
+When did the Cretaceous-Paleogene extinction happen?,squad,About 66 million years ago.,NO_RETRIEVAL,outcome
+What is the most recent example of financial fault lines? ,squad,The 2007-2008 global financial crisis is often cited as a significant example of financial fault lines.,SINGLE_STEP,outcome
+In what year was there an attempt to withdraw the UMC membership?,squad,2016,SINGLE_STEP,outcome
+What sacrament accords Christians renewed life?,squad,Eucharist,SINGLE_STEP,outcome
+When did Good Morning America begin airing?,squad,Good Morning America began airing in 1975.,NO_RETRIEVAL,outcome
+In what form is oxygen transported in smaller containers?,squad,Gaseous.,SINGLE_STEP,outcome
+what was invented in 1880 that revolutionized warfare?,squad,Machine gun,NO_RETRIEVAL,outcome
+With what body must a pharmacy technician register?,squad,With a state board of pharmacy.,SINGLE_STEP,outcome
+When was the heyday of secular Arab nationalism?,squad,"The heyday of secular Arab nationalism was during the mid-20th century, particularly in the 1950s and 1960",SINGLE_STEP,outcome
+How old was John Elway when he played in Super Bowl XXXIII?,squad,40 years old,SINGLE_STEP,outcome
+What law staes that forces are interactions between bodies?,squad,Newton's Third Law,NO_RETRIEVAL,outcome
+What was the base rate for a 30-second ad during Super Bowl 50?,squad,$5 million,SINGLE_STEP,outcome
+When is Sky going to introduce UHD broadcasts?,squad,Sky has already introduced Ultra HD (UHD) broadcasts.,SINGLE_STEP,outcome
+How fast is pharmacy informatics growing?,squad,Pharmacy informatics is growing rapidly.,SINGLE_STEP,outcome
+What party forms the Scottish Parliament?,squad,"The Scottish Parliament is formed by the Scottish Government, which is led by the Scottish Parliament and consists of the Scottish Cabinet and other ministers.",SINGLE_STEP,outcome
+How many yards did Newton throw for in 2015?,squad,"4,237",SINGLE_STEP,outcome
+Who was added to party as Washington went on the way?,squad,John Adams,SINGLE_STEP,fallback
+What are the two principal Asian-American groups living in the west side neighborhood of Fresno?,squad,Hmong and Laotian,SINGLE_STEP,outcome
+What does the immune system protect against?,squad,The immune system protects against pathogens and foreign substances.,SINGLE_STEP,outcome
+How did Luther say that reason contributes to faith?,squad,"Reason helps in understanding and interpreting scripture, thus contributing to faith.",SINGLE_STEP,fallback
+Who led the third division in Khwarezmia alongside Genghis Khan himself?,squad,Subutai,SINGLE_STEP,outcome
+How many seasons did the original Doctor Who run?,squad,9th Doctor (2005-2010) and 10th Doctor (2010-2013) series,SINGLE_STEP,outcome
+How were the men who did tasks like those of today's pharmacists viewed in Japan in the Asuka and Nara periods?,squad,They were respected as healers.,MULTI_STEP,outcome
+Who treats the majority of the population medically?,squad,Doctors and healthcare professionals.,SINGLE_STEP,outcome
+What thesis specifies that a polynomial relationship exists within time complexities in a computational model? ,squad,Master's Thesis on Mastering the Art of Computer Programming (TAOCP),SINGLE_STEP,outcome
+What group can teachers register with?,squad,Professional organizations or associations.,SINGLE_STEP,outcome
+What nationality was Oliver Reed's character in the film Royal Flash?,hotpotqa,British,MULTI_STEP,fallback
+Pacific Mozart Ensemble performed which German composer's Der Lindberghflug in 2002?,hotpotqa,Arnold Schoenberg,MULTI_STEP,fallback
+"Who released the song ""With or Without You"" first, Jai McDowall or U2?",hotpotqa,U2,NO_RETRIEVAL,outcome
+"What Kentucky county has a population of 60,316 and features the Lake Louisvilla neighborhood?",hotpotqa,Fayette County,SINGLE_STEP,outcome
+"Para Hills West, South Australia lies within a city with what estimated population?",hotpotqa,Adelaide,MULTI_STEP,fallback
+"In what year was the narrator of ""Blackadder's Christmas Carol"" born?",hotpotqa,1960,MULTI_STEP,fallback
+"Thomas Fitch defended John Henry Holliday when he was accused of killing men during the gunfight at the o.k. corral, when was that?",hotpotqa,"October 26, 1880",MULTI_STEP,fallback
+The actor that played Gutthi on Comedy nights with Kapil Show also starred in what 2016 Punjabi film directed by Smeep Kang?,hotpotqa,"The actor was Kulbhushan Kharbanda, who starred in ""Dil To Pagal Hai"" (2016) directed by S",SINGLE_STEP,outcome
+"Victor Varnada directed Twisted Fortune, which starred which brother of Eddie Murphy?",hotpotqa,Ed O'Neill,MULTI_STEP,outcome
+"After his curacy at the village that is a suburb of Scunthorpe, who was Industrial Chaplain to the Bishop of Lincoln?",hotpotqa,Eric Morecambe,SINGLE_STEP,outcome
+What is the first two words of the fifth studio album of Joseph Edgar Foreman?,hotpotqa,The First Cut Is the Deepest,MULTI_STEP,fallback
+The Twelfth United States Army Group commander was the first chairman of what?,hotpotqa,"The Twelfth United States Army Group commander was Douglas MacArthur, who later became the first Supreme Commander for Allied Powers (SCAP) after World War II.",SINGLE_STEP,outcome
+Politician Lyman Sherwood was born in what New York county?,hotpotqa,Rensselaer County,NO_RETRIEVAL,outcome
+Robert Earl Holding owned an oil company that was originally founded by who?,hotpotqa,Robert Earl Holding owned an oil company originally founded by his father.,MULTI_STEP,fallback
+"The chorus of ""On the Radio"" contains references to the song ""November Rain"" whose band's lead singer is?",hotpotqa,Slash from Guns N' Roses.,SINGLE_STEP,outcome
+"If the Charhki  Dadri crash was less dangerous than the Tenerife airport disaster, which occured firat? ",hotpotqa,Tenerife airport disaster.,MULTI_STEP,fallback
+Were the films Crazy Love and Welcome to Nollywood both released in 2008?,hotpotqa,No,NO_RETRIEVAL,outcome
+In what county was Duffy Jackson born?,hotpotqa,Duffy Jackson was born in Los Angeles County.,MULTI_STEP,fallback
+When was the defending titlist of 2009–10 Biathlon World Cup – Pursuit Men born? ,hotpotqa,27 June 1984,MULTI_STEP,outcome
+"Which mountain is taller, Gasherbrum II or Langtang Ri?",hotpotqa,Gasherbrum II is taller.,NO_RETRIEVAL,outcome
+Which Dutch media tycoon transferred all of its media activities to Talpa Holding?,hotpotqa,Stephan Telea,SINGLE_STEP,outcome
+When did the car depicted on the cover of Pentastar: In the Style of Demons cease production?,hotpotqa,2013,MULTI_STEP,fallback
+What commentator and author questioned the validity of CORE's non-profit status?,hotpotqa,Howard Benn Levy,MULTI_STEP,fallback
+did Robert Wise have more award nominations than Zoltan Korda?,hotpotqa,Yes.,NO_RETRIEVAL,outcome
+My Neighbor Totoro was produced by a Japanese animation film studio founded in what year?,hotpotqa,1958,SINGLE_STEP,outcome
+"When did the English local newspaper, featuring the sculpture and war memorial in the Forbury gardens, change names?",hotpotqa,2017,SINGLE_STEP,outcome
+"What years did Jose Gonzalo Rodriguez Gacha and other leaders of fthe Medallin Cartel operate in Boliva, Colombia, Central America, Peru, the United States, Canada, and Europe?",hotpotqa,1980s-1990s,SINGLE_STEP,outcome
+"Which writer died later, Agatha Christie or Clement Greenberg?",hotpotqa,Clement Greenberg died later.,NO_RETRIEVAL,outcome
+Arthur Noss was a gunner for the commader during which two European theatre battles in WWII?,hotpotqa,Arthur Noss served as a gunner during the Battle of El Alamein and the North African Campaign in WWII.,SINGLE_STEP,outcome
+Between Pinanga and Alopecurus which genus is more common in temperate regions?,hotpotqa,Alopecurus,NO_RETRIEVAL,outcome
+What is the name of shipping magnate Mærsk Mc-Kinney Møller' father?,hotpotqa,Niels Møller,MULTI_STEP,outcome
+"Who brewed the first espresso coffee in space, Patrick Baudry or Samantha Cristoforetti?",hotpotqa,Samantha Cristoforetti,NO_RETRIEVAL,outcome
+Who starred alongside South Korean actor and singer Kim Ki-bum in the 2012 romantic comedy series I Love Lee Tae-ri?,hotpotqa,Lee Min-ho,SINGLE_STEP,outcome
+Which port city lies approximately 25 km north of the Lingnan Fine Arts Museum?,hotpotqa,Zhuhai,MULTI_STEP,fallback
+Where is the school that Tyler Kalinoski went to located?,hotpotqa,The information about the specific school Tyler Kalinoski attended and its location is not available.,MULTI_STEP,fallback
+D1NZ is a series based on what oversteering technique?,hotpotqa,Drift (or drifting) technique.,NO_RETRIEVAL,outcome
+The most famous song of the last monarch of Hawaii was what?,hotpotqa,Aloha 'Oe,SINGLE_STEP,outcome
+"The NG postcode area is situated approximately how many miles from Gamston, Rushcliffe?",hotpotqa,About 15-20 miles.,MULTI_STEP,fallback
+"Along side Thomas Alan, which singer's first three albums were recorded at The Boarding House?",hotpotqa,Beyoncé,SINGLE_STEP,outcome
+The Curaçao Centre for Correction and Detention changed its name to Sentro di Detenshon i Korekshon Kòrsou at this event which saw the dissolution of a Caribbean country on what date?,hotpotqa,"On 10 September 2010, the Curaçao Centre for Correction and Detention changed its name to Sentro di Detenshon",SINGLE_STEP,outcome
+What conference champions were putted against each other in the first NBA Finals in which the Orlando Magic's played?,hotpotqa,The Chicago Bulls and the Orlando Magic.,MULTI_STEP,fallback
+What Australian beer is a British style pale ale whose label features a character conceived in 1926? ,hotpotqa,Boddingtons Pale Ale,MULTI_STEP,fallback
+"Who was born first, Chester Bennington or Mikael Stanne?",hotpotqa,Mikael Stanne (Meshuggah) was born first.,MULTI_STEP,fallback
+What country of origin does Robert brothers and Jacques Charles have in common?,hotpotqa,France,MULTI_STEP,fallback
+"What character did Selina Giles play in the 2005 dystopian political thriller named ""V for Vendetta""?",hotpotqa,Selina Giles played Evey Hammond.,MULTI_STEP,fallback
+Dionne Bunsha worked most recently for the magazine published by what company?,hotpotqa,Dionne Bunsha worked most recently for Marie Claire.,MULTI_STEP,fallback
+The Atik Valide Mosque and Valens Aqueduct are found in what country?,hotpotqa,Turkey,NO_RETRIEVAL,outcome
+Are both Helen Dunmore and M. P. Shiel of West Indian descent?,hotpotqa,No,NO_RETRIEVAL,outcome
+"What band wrote the song ""Blue Letter"" and was inducted into the Rock and Roll Hall of Fame in 1998?",hotpotqa,Creedence Clearwater Revival,SINGLE_STEP,outcome
+the municipality of Mirditë is in a country that had how many inhabitants in 2016 ?,hotpotqa,"458,936",MULTI_STEP,fallback
+"Which film was Oscar nominated, LaLee's Kin: The Legacy of Cotton or Gimme Shelter, the 1970 Rolling Stones documentary?",hotpotqa,"Gimme Shelter, the 1970 Rolling Stones documentary.",SINGLE_STEP,outcome
+What is the name of the Isles who were led by Aonghus Mór and covered a total land area of over 8300 km2?,hotpotqa,Taygetus Isles,SINGLE_STEP,outcome
+"Which part of Handel's Messiah covers the birth of a child who, according to the gospels of Luke and Matthew, was born in Bethlehem?",hotpotqa,"The part of Handel's Messiah that covers this is ""Hallelujah!"" chorus.",SINGLE_STEP,outcome
+What Danish drama thriller which takes place in both Denmark and Africa was produced by Sisse Graum Jørgensen?,hotpotqa,The Killing,SINGLE_STEP,outcome
+Katie sagona is known as what kind of actor because she was a child acting on stage or in motion pictures or television?,hotpotqa,Child actress,SINGLE_STEP,outcome
+What was the name of the commander who captured all of the French ships that varied in size?,hotpotqa,Victor Rezzonico,MULTI_STEP,fallback
+Ralph Hefferline was a psychology professor at a university that is located in what city?,hotpotqa,"Ralph Hefferline was a psychology professor at the University of Chicago, which is located in Chicago, Illinois.",MULTI_STEP,fallback
+Both Bo Diddley and The Yardbirds played which common genre of music during their careers?,hotpotqa,Rock and roll.,NO_RETRIEVAL,outcome
+WHere are both Sanming and Jiutai District located?,hotpotqa,"Both Sanming and Jiutai District are located in Fujian Province, China.",NO_RETRIEVAL,outcome
+What production company was founded by George Balanchine to create a live stage version of the 1942 film Casablanca?,hotpotqa,New York City Ballet,SINGLE_STEP,outcome
+"Josey Scott and Ian Watkins were both promising musicians. Which of these talented men was incarcerated, impacting his career with a rock band?",hotpotqa,Ian Watkins.,MULTI_STEP,fallback
+who was the anthropologist who thought that the plaster casts that were discovered by Paul Freeman were a critical piece of evidence?,hotpotqa,Julian Steward,MULTI_STEP,fallback
+What are the names of the co-directors of the psychological horror film starring Emily Browning and Elizabeth Banks?,hotpotqa,Nick Castle and David F. Sandberg,MULTI_STEP,fallback
+Where is the first major improved highway located?,hotpotqa,The first major improved highway was located in the United States.,MULTI_STEP,fallback
+Which store in Gurney Paragon was founded in Belgium in 1926?,hotpotqa,Le Bon Marché,MULTI_STEP,outcome
+"Which Star of British-Canadian-American satirical comedy, co starting with Ricky Gervais, began his career in sketch comedy series""Full Frontal"" ?",hotpotqa,Stephen Merchant,MULTI_STEP,fallback
+Löwenbräu and Bürgerbräukeller are both located where?,hotpotqa,"Munich, Germany.",NO_RETRIEVAL,outcome
+Progress MS-09 was used to resupply the satellite that first launched into orbit in what year?,hotpotqa,1987,MULTI_STEP,fallback
+H-63 is a highway that runs near the county seat of what Michigan county?,hotpotqa,Huron County,MULTI_STEP,fallback
+Who used a Barrack buster to shoot down a British Army Lynx helicopter,hotpotqa,The United States military used a B-52 Stratofortress to shoot down a British Army Lynx helicopter during the 1982 Falklands,SINGLE_STEP,outcome
+What liberal arts college has their athletic teams named the Lincoln Memorial Railsplitters?,hotpotqa,Trinity College of Maryland,SINGLE_STEP,outcome
+The Lucy Maud Montgomery novel about the character Anne Shirley was first translated into Japanese by what woman?,hotpotqa,Miyoko Shiga,MULTI_STEP,fallback
+Did Yasuzo Masumura and Pitof hail from the same country and professional career?,hotpotqa,No,NO_RETRIEVAL,outcome
+"What did Eric Radomski produce that premiered on Disney XD on May 26, 2013?",hotpotqa,"""Gravity Falls""",SINGLE_STEP,outcome
+What man is credited eith inventing both the Leyden jar and the Tribometer?,hotpotqa,Ernst Moritz von Koenigswald,SINGLE_STEP,outcome
+"What type of auto racing, performed on clay or dirt surfaced oval tracks, is run for the Australian Street Stock Championship? ",hotpotqa,Stock car racing,MULTI_STEP,outcome
+"Forest Hill, Texas is a suburb of which fifth-largest city in the state?",hotpotqa,San Antonio,SINGLE_STEP,outcome
+What was the slogan  that came about from the idea of Lebensraum which had its most extreme form supported by the Nazi Party until the end of World War II?,hotpotqa,"""More Room for the Aryan Race""",MULTI_STEP,fallback
+Which Bob Stoops coached team beat the 2016 Auburn Tigers football team?,hotpotqa,2015 Oklahoma Sooners,MULTI_STEP,fallback
+"According to the 2010 census, what was the population of the city after which the vice president, in April 1813, was named?",hotpotqa,Cincinnati,MULTI_STEP,fallback
+"Which was published first, Take It Easy or Personal Preference?",hotpotqa,Take It Easy,NO_RETRIEVAL,outcome
+"Wapping has the oldest riverside tavern, dating back from when?",hotpotqa,1720,MULTI_STEP,fallback
+Who was a higher ranked tennis player: Paola Suárez or Michael Venus?,hotpotqa,Paola Suárez,NO_RETRIEVAL,outcome
+Are Joe Orton and Bernard-Marie Koltès both playwrights ?,hotpotqa,Yes,NO_RETRIEVAL,outcome
+What American bluegrass singer performed the song Restless with The New Nashville Cats?,hotpotqa,Bill Monroe,SINGLE_STEP,outcome
+Who lived longer- Bernard-Marie Koltès or Philip José Farmer?,hotpotqa,Philip José Farmer lived longer.,NO_RETRIEVAL,outcome
+Paul DeBoy is known for an appearance in the Western action-adventure game developed by which company?,hotpotqa,Bethesda Game Studios,SINGLE_STEP,outcome
+Are either The Pogues or Pillar an electronic dance music group?,hotpotqa,No,NO_RETRIEVAL,outcome
+What university did Bill Daly graduate that Gary Bettman also graduated from?,hotpotqa,Boston College,SINGLE_STEP,outcome
+"Who was born first, Bruce Conner or Nils Gaup?",hotpotqa,Bruce Conner,NO_RETRIEVAL,outcome
+What is one of the most successful retro-clones that is no longer supported by Wizards of the Coast?,hotpotqa,Hero's Journey,MULTI_STEP,fallback
+"Name one of the Judges of Spring Baking Championship television series who was born on December 17, 1974 ?",hotpotqa,Judith C. Cline,MULTI_STEP,fallback
+What was the breakthrough role of the actor starring in Good Boy! and was a native of Atlanta?,hotpotqa,"Dwayne ""The Rock"" Johnson",MULTI_STEP,fallback
+College Humor is a 1933 American pre-Code musical comedy film that starred what American singer and actor who has a trademark warm bass-baritone voice?,hotpotqa,Jimmy Durante,MULTI_STEP,fallback
+"Between Greyia and Calibanus, which genus contains more species?",hotpotqa,Greyia,NO_RETRIEVAL,outcome
+"What company has a headquarters in Whitley, Convernty, United Kingdom?",hotpotqa,Not applicable (N/A),SINGLE_STEP,outcome
+Who starred as an American attorney in Grey Gardens?,hotpotqa,Mariel Hemingway,SINGLE_STEP,outcome
+Was Princess Charlotte of Cambridge born before or after the repealing of the Royal Marriages Act 1772?,hotpotqa,Before,SINGLE_STEP,outcome
+Hermann Wilhelm Göring was a veteran fighter pilot in a war that ended in what year?,hotpotqa,1945,MULTI_STEP,fallback
+Ethel Winter worked with which avant-garde theater director?,hotpotqa,Samuel Beckett,SINGLE_STEP,outcome
+What city is the women's Vans Triple Crown of Surfing event hosted at?,hotpotqa,"Tampa, Florida",MULTI_STEP,fallback
+"Which song, released on December 7, 2008 was co-written by Liz Rose?",hotpotqa,"""Already Gone""",SINGLE_STEP,outcome
+"Born on 6 March 1937, this man was also a citizen of the United Kingdom.",hotpotqa,Sir Winston Leonard Spencer-Churchill,MULTI_STEP,fallback
+where is a  football club which Aly Mohamed play for from ,hotpotqa,Al Ahly SC,MULTI_STEP,fallback
+What did Mustafa Kemal Atatürk's residence become once it became Atatürk Museum Mansion?  ,hotpotqa,A museum.,NO_RETRIEVAL,outcome
+"Swiss music duo Double released their best known single ""The Captain of Her Heart"" in what year?",hotpotqa,2014,MULTI_STEP,fallback
+What was the father of Kasper Schmeichel voted to be by the IFFHS in 1992?,hotpotqa,The father of Kasper Schmeichel was voted the World's Best Goalkeeper by the IFFHS in 1992.,NO_RETRIEVAL,outcome
+Which American writer wrote both The Ganymede Takeover (1967) and The Man in the High Castle (1962)?,hotpotqa,Philip K. Dick,NO_RETRIEVAL,outcome
+"Which of the fighter in Battle of Gavinana was created in 1422, and came to an end when the Holy Roman Empire was wound up in 1806, as the result of the Napoleonic Wars?",hotpotqa,Battle of Gavaneña is not historically accurate. The Battle of Guinegate (also known as the Battle of Gavaine) took place on August,SINGLE_STEP,outcome
+What three other National forests are administered by the same people who administer the park in which the Art Loeb trail runs through?,hotpotqa,"Glacier, Sawtooth, and Bridger-Teton.",MULTI_STEP,fallback
+What street was the adult entertainment district of the Liberty Tree District centered on?,hotpotqa,Fifth Street,SINGLE_STEP,outcome
+Who was the head coach for the team whose fourth round draft pick in 1974 played college football at Alabama A&M?,hotpotqa,Tom Landry,MULTI_STEP,outcome
+Which player for the Chicago American Gears held the record which George Harry Yardley III broke ,hotpotqa,Rube Waddell,MULTI_STEP,fallback
+"Which band has more constant members, Lilys or Ratatat?",hotpotqa,Ratatat,NO_RETRIEVAL,outcome
+Kaye Stevens was an American singer and actress whose big break came at what hotel on the Las Vegas Strip that operated from April 1955 to May 2015?,hotpotqa,The Flamingo,SINGLE_STEP,outcome
+"Who performed the Simon & Garfunkel song that was a follow-up single to ""The Boxer"" on Australian Idol? ",hotpotqa,Kenny Rogers,SINGLE_STEP,outcome
+"In relation to Rome, where was the city whose king was the father of Ocnus?  ",hotpotqa,Alba Longa,MULTI_STEP,fallback
+"Seven years before the opening of the Brewer Fieldhouse in Columbia, Missouri, where was Chester Brewer working as head football coach and head basketball coach?",hotpotqa,Chester Brewer was working as head football coach and head basketball coach at the University of Missouri.,MULTI_STEP,fallback
+"When was the American singer, songwriter, record producer, dancer and actress born who's second studio album is Chapter II?",hotpotqa,"June 24, 1988",MULTI_STEP,fallback
+"Who has released more studio albums, Candlelight Red or Motion City Soundtrack?",hotpotqa,Motion City Soundtrack,NO_RETRIEVAL,outcome
+"What city has a football team and had a player from Pago Pago, American Samoa play for it?",hotpotqa,Philadelphia Eagles,MULTI_STEP,fallback
+Keanu is a 2016 American action comedy film directed by Peter Atencio and written by who?,hotpotqa,Keanu is a 2016 American action comedy film directed by Peter Atencio and written by Zak Penn.,SINGLE_STEP,outcome
+What form of play does Yameen and Activision have in common?,hotpotqa,Mobile games,MULTI_STEP,fallback
+"What singer-songwriter from Derry appeared on Paul van Dyk's 2012 album, Evolution?",hotpotqa,Van Morrison,SINGLE_STEP,outcome
+The Story of Them Featuring Van Morrison is a compilation album recorded by what Northern Irish band formed in Belfast in April 1964?,hotpotqa,Herman's Hermits,SINGLE_STEP,outcome
+What was the previous occupation of the Canadian-born Indian-American actress and model who appeared in Tina & Lolo alongside Karishma Tanna?,hotpotqa,Sandra Oh,SINGLE_STEP,outcome
+"What actor starred in ""Word of Honor"" and ""Miami Vice""? ",hotpotqa,Don Johnson,MULTI_STEP,fallback
+"The Whitehead Light is located in what town with a population of 2,591 during the 2010 census?",hotpotqa,Carmel-by-the-Sea,MULTI_STEP,fallback
+Thirukkalacherry is a village in which Indian town?,hotpotqa,"Thirukkalacherry is a village in the town of Kozhikode, Kerala, India.",MULTI_STEP,fallback
+What year did Fifty Shades of Grey release?,hotpotqa,2013,SINGLE_STEP,outcome
+Are the Barton Mine and Hermiston-McCauley Mine located in The United States of America?,hotpotqa,Yes,SINGLE_STEP,outcome
+Who has a better career-high singles ranking Daniel Vacek or Fabio Fognini ?,hotpotqa,Fabio Fognini,NO_RETRIEVAL,outcome
+Which species of trees is larger Dryopteris or Gymnocladus?,hotpotqa,Gymnocladus is larger.,MULTI_STEP,fallback
+What is the nationality of a famous photograher who worked as a set photographer in Hollywood film productions?,hotpotqa,American,MULTI_STEP,outcome
+What book did the president and CEO of Tracinda Corporation buy?,hotpotqa,"""Warren Buffett's Letter to Berkshire Shareholders 1984.""",MULTI_STEP,fallback
+What athletic team has its football and basketball games broadcast on KFST and has a mascot who is named Bevo?,hotpotqa,Texas Longhorns,NO_RETRIEVAL,outcome
+What occupation is shared by both Marge Piercy and Richard Aldington?,hotpotqa,Writer,MULTI_STEP,fallback
+Who owns the hotel where the 13th Anniversary Show took place?,hotpotqa,Alibaba Group,MULTI_STEP,outcome
+What is the legal name of Johnny Campbell's hometown?,hotpotqa,Campbellsville,MULTI_STEP,fallback
+"Which is farther west, Sheridan County, Montana or Chandra Taal?",hotpotqa,Chandra Taal,MULTI_STEP,fallback
+What football league did John Moncur belong to during his time at Ipswich Town F.C.?,hotpotqa,John Moncur played for Ipswich Town F.C. in the Football League.,SINGLE_STEP,outcome
+What actor from Northern Ireland born in 1983 starred in Whole Lotta Sole?,hotpotqa,Colin Farrell,MULTI_STEP,fallback
+When did the coach of the 1963 Oklahoma Sooners football team die ?,hotpotqa,"The coach of the 1963 Oklahoma Sooners football team, Bud Wilkinson, died on December 20, 1985.",MULTI_STEP,outcome
+"which German philosopher wrote ""The opera ""Lulu""  ",hotpotqa,Walter Benjamin,MULTI_STEP,fallback
+What country is the theme park served by the Huis Ten Bosch train service themed on?,hotpotqa,Japan,SINGLE_STEP,outcome
+Thea Ruth White is best known for her voice over work as Muriel Bagge on  an American animated horror comedy television series created for who?,hotpotqa,The Walt Disney Company,SINGLE_STEP,outcome
+"Predelta National Park is located in which area of Argentina comprising of the provinces Misiones, Entre Ríos and Corrientes?",hotpotqa,"Predelta National Park is located in the area of Argentina comprising the provinces Misiones, Entre Ríos, and Corrientes.",SINGLE_STEP,outcome
+"Who has more singles titles, Brian Gottfried or Peter Fleming?",hotpotqa,Brian Gottfried,MULTI_STEP,fallback
+Who wrote Tom Vaughan's popular 2008 film?,hotpotqa,Stephen Chow,SINGLE_STEP,outcome
+"Which satellite was operational for longer, International Ultraviolet Explorer or EXOSAT?",hotpotqa,International Ultraviolet Explorer operated for longer.,NO_RETRIEVAL,outcome
+Li Yitong made her television debut on which network?,hotpotqa,Li Yitong made her television debut on Hunan Satellite TV.,SINGLE_STEP,outcome
+Which building was completed first the W. R. Grace Building or 10 Hudson Yards?,hotpotqa,W. R. Grace Building,NO_RETRIEVAL,outcome
+Bangalore Naatkal starred which actor and photographer?,hotpotqa,Kamal Haasan,MULTI_STEP,fallback
+Who is older Craig Nicholls or Norman Blake ?,hotpotqa,Craig Nicholls is older than Norman Blake.,NO_RETRIEVAL,outcome
+"Which tournament, organised by the Professional Darts Corporation, is planned to finish at the multi-purpose indoor arena located in the centre of The O2 entertainment complex on the Greenwich Peninsula in south-east London?",hotpotqa,The World Darts Championship,MULTI_STEP,fallback
+what language did the ethnic group which Torstein Ellingsen was its drumer  speaks ,hotpotqa,I don't have enough information to determine the specific language spoken by the ethnic group associated with Torstein Ellingsen as a drummer.,MULTI_STEP,fallback
+Are Fabián Bielinsky and Nelson Pereira dos Santos both directors?,hotpotqa,Yes,NO_RETRIEVAL,outcome
+What is the financial group which created the Sporting Portugal Fund?,hotpotqa,Alibaba Investment Network,MULTI_STEP,outcome
+What other country does the league that Taylor Eric Kemp played in represents the sport's highest level besides the United States?,hotpotqa,Canada,NO_RETRIEVAL,outcome
+"Which battle lasted longer, Battle of Hürtgen Forest or Battle of Pusan Perimeter?",hotpotqa,Battle of Hürtgen Forest lasted longer.,NO_RETRIEVAL,outcome
+RL-83 Blindicide was an improved derivative of a wea[on launcher widely fielded by which army ?,hotpotqa,"RL-83 Blindicide was an improved derivative of the RPG-7 launcher, widely fielded by the Soviet Army.",SINGLE_STEP,outcome
+"Max Hoffmann along with Hindenburg and Ludendorff, masterminded the devastating defeat of the Russian armies in a battle fought when ?",hotpotqa,"Max Hoffmann, along with Hindenburg and Ludendorff, masterminded the devastating defeat of the Russian armies during the Battle of Tannenberg in",MULTI_STEP,fallback
+What sort of activist is the author of The Irrational Atheist? ,hotpotqa,Activist for atheism and rational thinking.,MULTI_STEP,fallback
+"What is the global rank by population of the city that Daewoong Pharmaceutical Co., Ltd is based in?",hotpotqa,19,MULTI_STEP,fallback
+The name of the Japanese rock band T-Bolan was inspired by the name of an English rock band formed in what year?,hotpotqa,1968,SINGLE_STEP,outcome
+"What is the birthdate of this Australian dramatic coloratura soprano, who taught Simon Gilbert?",hotpotqa,The birthdate of the Australian dramatic coloratura soprano who taught Simon Gilbert is not provided in the given information.,MULTI_STEP,fallback
+Which actor in the film Equus is also in the film The Informers?,hotpotqa,John Mills,MULTI_STEP,fallback
+"What is represented on the cover art of the studio album that includes the song ""Speed of Sound""?",hotpotqa,"The cover art typically represents the theme or concept of the album, not specifically the song title.",MULTI_STEP,outcome
+"What of Nico van der Meel's operatic roles was starring in a libretto based loosely on the eight paintings and engravings ""A Rake's Progress""?",hotpotqa,"Nick Shadow in ""The Rake's Progress""",NO_RETRIEVAL,outcome
+Which English-born Australian singer/songwriter was a judge on season 8 of Australia's Got Talent?,hotpotqa,Colbie Caillat,MULTI_STEP,fallback
+KSCW-DT is part of a duopoly with which virtual channel 12 in Wichita?,hotpotqa,KSNV-DT,SINGLE_STEP,outcome
+What park is just south of the location where the New York Jets played prior to moving to Shea Stadium? ,hotpotqa,Citi Field,MULTI_STEP,fallback
+Which rapper who worked with a star of the film 8 Mile also worked with the artist who played keyboards and wrote songs for Anita Baker??,hotpotqa,Eminem,NO_RETRIEVAL,outcome
+What singer who sang in church during her childhood did Stacy Barthe pen album tracks for?,hotpotqa,Aretha Franklin,SINGLE_STEP,outcome
+"What song by the American rapper Coolio is on his greatest hits album ""Fantiastic Voyage"" and samples from a Stevie Wonder song?",hotpotqa,Gangsta's Paradise,NO_RETRIEVAL,outcome
+What party does the House of Commons representative for Congleton belong to?,hotpotqa,Conservative Party,MULTI_STEP,fallback
+"If Selfridges in London is the UK's second largest shop, which store - today owned by the State of Qatar - is the biggest?",hotpotqa,Dior,SINGLE_STEP,outcome
+"What rapper on the song ""Wij zijn Ajax"" plays for the Turkish club Beşiktaş?",hotpotqa,Til Schweier,SINGLE_STEP,outcome
+" Dayton's Devils had a cameo from the ""MASH"" star who played what role on the show?",hotpotqa,B.J. Hunnicutt,MULTI_STEP,fallback
+"Nick Jr Too was launched on the same day as what rival channel that was created by Turner Broadcasting, and is the sister station of Cartoon Network?",hotpotqa,Adult Swim,SINGLE_STEP,outcome
+"Haier has North American rights to which appliance company headquartered in Louisville, Kentucky?",hotpotqa,Midea Group,MULTI_STEP,fallback
+When was the city George Consider Hale was born in founded?,hotpotqa,1628,MULTI_STEP,outcome
+"Who has worked for more film companies, Kelly Reichardt or Jacques Tourneur?",hotpotqa,Jacques Tourneur,NO_RETRIEVAL,outcome
+Which animal-themed Disney classic film appeared first: That Darn Cat! or Perri?,hotpotqa,Perri,MULTI_STEP,fallback
+ Mount Stimson is the second highest peak in national park that encompasses how many acres?,hotpotqa,1.9 million acres,MULTI_STEP,fallback
+Brad Elterman is a professional photographer who addressed the rock 'n' roll lifestyle of a band that became noted for what?,hotpotqa,Brad Elterman photographed The Rolling Stones.,MULTI_STEP,fallback
+Are Portuguese Podengo and Russo-European Laika the same breed of dog?,hotpotqa,No,NO_RETRIEVAL,outcome
+The World War I Air Force pilot who has been credited with 80 air combat victories has been the subject of what forms of media?,hotpotqa,"Books, films, documentaries.",MULTI_STEP,outcome
+" Which album did the band Kraftwerk release after their successful album which reached number 25 on the US ""Billboard"" Hot 100 chart?",hotpotqa,The Factory Album,MULTI_STEP,fallback
+"Which of these universities, Northwestern University or Johns Hopkins University, have a campus outside of the United States territories?",hotpotqa,Neither university has a campus outside of the United States territories.,MULTI_STEP,fallback
+" Who was born earlier, Simone Bolelli or Caroline Wozniacki?",hotpotqa,Simone Bolelli,NO_RETRIEVAL,outcome
+"What is the familiar name for the first operation in the Battle of Normandy, also codenamed Operation Overlord?",hotpotqa,D-Day,NO_RETRIEVAL,outcome
+"Opel once owned and manufactured the brand known under one shared name in New Zealand and Australia, and that brand is now a subsidiary of what company?",hotpotqa,Stellantis,MULTI_STEP,fallback
+Did Franki Valli sing with Hellogoodbye or The Four Seasons?,hotpotqa,Franki Valli sang with The Four Seasons.,NO_RETRIEVAL,outcome
+"An actor who appeared in all eight ""American Pie Films"" stared alongside which actor in Armed and Dangerous? ",hotpotqa,Jason Biggs,MULTI_STEP,outcome
+who is younger Ulrich Walter or  Luca Parmitano?,hotpotqa,Ulrich Walter is younger than Luca Parmitano.,NO_RETRIEVAL,outcome
+"Which peak stands higher, Muztagh Ata or Manaslu?",hotpotqa,Manaslu stands higher.,NO_RETRIEVAL,outcome
+"What age did a wrestler began his training at who began his friendship with Trevor Mann in Brookport, Illinois CPW?",hotpotqa,12,SINGLE_STEP,outcome
+Which season did Brain Billick coach the Baltimore Ravens though in 2001?,hotpotqa,Billick coached the Baltimore Ravens in the NFL during the 2001 season.,MULTI_STEP,fallback
+Vocelli Pizza and Noble Roman's serve which kind of food?,hotpotqa,Pizza.,NO_RETRIEVAL,outcome
+"Who was appointed to the board of supervisors first, Jeff Sheehy or Ed Lee?",hotpotqa,Ed Lee was appointed to the board of supervisors first.,NO_RETRIEVAL,outcome
+"Which director was also a film editor, Burton L. King or Maheen Zia?",hotpotqa,Burton L. King,MULTI_STEP,fallback
+"What scientist as well as a practising Roman Cathloic described the electronic voice phenomena as typically brief, usually the length of a work or short phrase?",hotpotqa,Raymond Bernard Lynn,SINGLE_STEP,outcome
+"La Machine a ecirire was written by what French writer, designer, playright, artist, and filmmaker, who is known for his novel, ""Les Enfants Terribles""?",hotpotqa,Jean Cocteau,MULTI_STEP,fallback
+"Which opera has more acts, Parsifal or Manon by Massenet?",hotpotqa,Parsifal by Wagner has more acts than Manon by Massenet.,NO_RETRIEVAL,outcome
+"Which magazine is older, Gallery or Dime Magazine?",hotpotqa,Gallery is older than Dime Magazine.,MULTI_STEP,fallback
+Larry Porter was formerly assistant head coach under what  American coach that served as head coach at Louisiana State University from 2005 to 2016,hotpotqa,"Larry Porter was formerly assistant head coach under Paul Chaney, who served as head coach at Louisiana State University from 2005 to 201",SINGLE_STEP,outcome
+What Jurassic Park star was also in the Rainbow Warrior?,hotpotqa,Keith Richards,MULTI_STEP,fallback
+Which county was included in the Diocese of Reno and was also the county seat of Ormsby County prior to 1969?,hotpotqa,Washoe County,SINGLE_STEP,outcome
+What film did Tom Wu appear in that also starred Jason Statham and Ray Liotta? ,hotpotqa,Crash (2004),MULTI_STEP,fallback
+Were the Commodore 16 and Prológica CP-400 from the same country?,hotpotqa,No,NO_RETRIEVAL,outcome
+Which Austrian Chancellor does Jörg Leichtfried serve under?,hotpotqa,Jörg Haider,SINGLE_STEP,outcome
+"Who is younger, Keisuke Kuwata or Moya Brennan?",hotpotqa,Moya Brennan,MULTI_STEP,fallback
+"""Twenty Two"" is an episode of the series ""The Twilight Zone."" adapted from an anecdote by a publisher who made appearance in what panel game show?",hotpotqa,Jeopardy!,MULTI_STEP,outcome
+"During the 2004-05 Atlanta Hawks season, the team acquired a former professional basketball player, who is the current head coach of what team?",hotpotqa,The current head coach is Matisse Thybulle.,MULTI_STEP,fallback
+What football league did the person that Wilfred Bamnjo's nickname come from play and work at?,hotpotqa,"Wilfred Bamnjo's nickname comes from ""Willy Bam"", who played and worked for the English Premier League club Liverpool FC.",MULTI_STEP,fallback
+"Which documentary film follows poetry, Race to Nowhere or SlamNation?",hotpotqa,SlamNation,NO_RETRIEVAL,outcome
+When was the English rock band formed that's first recording remained unreleased for three years?,hotpotqa,The Rolling Stones,MULTI_STEP,fallback
+"Which director was from a country closer to Canada, J. Searle Dawley or Lionel Ngakane?",hotpotqa,J. Searle Dawley,MULTI_STEP,fallback
+Georges-Henri Bousquet translated the work of a historian who is of what heritage?,hotpotqa,French.,MULTI_STEP,outcome
+In what european city is a location of the college from which the woman known as Comic Book Girl 19 received her degree?,hotpotqa,Vienna,MULTI_STEP,fallback
+Which characters are akin to goblins and were added to a Tilted Mill Entertainment video game in 2009?,hotpotqa,Golems,MULTI_STEP,outcome
+Which German aeronautical engineer concieved the Dornier Aerodyne?,hotpotqa,Willy Messerschmitt,SINGLE_STEP,outcome
+Are Ranger Rick and Tennis both sports magazines?,hotpotqa,"No, Ranger Rick is a children's magazine, while Tennis is a sport.",NO_RETRIEVAL,outcome
+What is a difference between Sly Stone and Mary Ramsey?,hotpotqa,"Sly Stone is an influential musician, while Mary Ramsey is a singer-songwriter.",MULTI_STEP,fallback
+"Which band has had more members, The Operation M.D. or Del Amitri?",hotpotqa,Del Amitri,NO_RETRIEVAL,outcome
+"Which university was founded first, University of California, Berkeley or Saint Louis University?",hotpotqa,"University of California, Berkeley",MULTI_STEP,fallback
+Who developed the jet fighters operated by the 41st Tactical Squadron of the Polish Air Force?,hotpotqa,Lockheed Martin,MULTI_STEP,outcome
+In what year was the British actress who starred in a film adaptation of a series of eight children's books written by P. L. Travers born?,hotpotqa,1928,MULTI_STEP,fallback
+Which member of The New Russian School was both a doctor and a chemist besides being a composer?,hotpotqa,Mikhail Glinka,MULTI_STEP,fallback
+What film was Rebecca Gibney in that also had Kate Winslet in it?,hotpotqa,"The Cook, the Thief, His Wife and Her Lover.",MULTI_STEP,outcome
+Women's soccer star Caprice Dydasco plays for Newcastle Jets FC based in what nation?,hotpotqa,Australia,NO_RETRIEVAL,outcome
+What year did a blacklisted screenwriter share an Academy Award with Michael Kanin?,hotpotqa,1964,SINGLE_STEP,outcome
+Anna Aglatova made her first public appearance at which Moscow theatre in 2005?,hotpotqa,Anna Aglatova made her first public appearance at the Moscow Art Theatre (Moscow Academic Theatre Institute) in 2005.,SINGLE_STEP,outcome
+"Jacques Mathou starred in Delicatessen, the 1991 French movie in the style of which celebrated American animator?",hotpotqa,Laurence Fishburne,SINGLE_STEP,outcome
+"Which composer, who was a crucial figure in the transition between the Classical and Romantic eras in Western art music, wrote Piano Sonata No. 16 ?",hotpotqa,Carl Maria von Weber,SINGLE_STEP,outcome
+Where was the original line of the railroad William Howard worked for?,hotpotqa,Pennsylvania,MULTI_STEP,outcome
+"Los Angeles Historic-Cultural Monument (No. 139) hosted an event by what organization on Oct 12, 1991?",hotpotqa,Los Angeles Conservancy,MULTI_STEP,fallback
+Mazda's Mazda6 belongs to which country's car manufacturer?,hotpotqa,Japanese,NO_RETRIEVAL,outcome
+Which Hells Angel member stabbed and beat an attendant of the 1969 counterculture-era rock concert in the United States?,hotpotqa,James Hilliard,SINGLE_STEP,outcome
+Which was secretary to President Richard Nixon: Rose Mary Woods or H. R. Haldeman?,hotpotqa,H. R. Haldeman,SINGLE_STEP,outcome
+Were both the Battle of Saipan and the Battle of Manila fought by American forces?,hotpotqa,"No, the Battle of Saipan was fought by American forces, while the Battle of Manila was not a battle but refers to the Battle of Lingayen",MULTI_STEP,fallback
+What is the name of the vocalist who collaborated with the rap duo who won the 2002 Grammy Award for Best Rap Performance by a Duo or Group?,hotpotqa,Tupac Shakur,MULTI_STEP,fallback
+What city in the Philippines is home to the Robinsons Galleria and the 4th largest shopping mall in the world?,hotpotqa,Cavite City,MULTI_STEP,fallback
+What indigenous American ethnic group that inhabits land in the northern United States and southern Canada was part of the Treaty of Springwells?,hotpotqa,The Cree,SINGLE_STEP,outcome
+Which gaming console was both Yakuza Kiwami and Yakuza 0 released on?,hotpotqa,PlayStation 3,SINGLE_STEP,outcome
+"Are both genera Silphium and Heliotropium, genera of flowering plants ?",hotpotqa,Yes,NO_RETRIEVAL,outcome
+Was the band The Shins formed before the band Paramore?  ,hotpotqa,No.,SINGLE_STEP,outcome
+"The Prodigal Daughter, though a book about an American, is by a novelist of what nationality?",hotpotqa,British,MULTI_STEP,fallback
+In between Anaïs Nin and Odysseas Elytis who was awarded the Nobel Prize in Literature?,hotpotqa,Odysseas Elytis,NO_RETRIEVAL,outcome
+"What are these two Malaysian businesses, Theme Park Hotel and Genting Highlands, considered?",hotpotqa,Theme Park Hotels and Genting Highlands are both considered major entertainment and leisure complexes in Malaysia.,MULTI_STEP,fallback
+In what town is Suffolk county hamlet that was served by the Suffolk Traction Company?,hotpotqa,Holtsville,MULTI_STEP,fallback
+What is the female star of Klepto best known for performing in?,hotpotqa,Scarlett Johansson,MULTI_STEP,fallback
+What profession does John Lanchester and Alan Dean Foster have in common?,hotpotqa,Both are authors.,MULTI_STEP,fallback
+"Lost Kingdom Adventure is a dark ride located at four Legoland theme parks, including which park, which is the original Legoland park, that was opened on June 7th, 1968?",hotpotqa,Legoland California,SINGLE_STEP,outcome
+In what Italian region was the House of Grimaldi?,hotpotqa,Monaco,SINGLE_STEP,outcome
+How many members were in the South Korean boy group whose first official sub-unit is Bastarz?,hotpotqa,13 members,MULTI_STEP,fallback
+Which South African politician won the indirect presidential election with 277 votes?,hotpotqa,Thabo Mbeki,MULTI_STEP,fallback
+SuperMansion starred the actress who had a recurring role as whom on Workaholics?,hotpotqa,Melissa McCarthy played Debbie on Workaholics and later had a recurring role as Mrs. Potato Head on SuperMansion.,MULTI_STEP,fallback
+What is the relation between current manager of Chinese club Tianjin Quanjian and Paolo Cannavaro?,hotpotqa,Paolo Cannavaro is the current manager of Chinese club Tianjin Quanjian.,SINGLE_STEP,outcome
+The State Theatre is part of a performing arts centre located in what Australian suburb?,hotpotqa,"The State Theatre is part of a performing arts centre located in the suburb of Newtown, Sydney.",SINGLE_STEP,outcome
+Which team was a Dutch former professional footballer sacked from in 2009 after the team underperformed in a string of games for the qualification for the Champions League? ,hotpotqa,Feyenoord,SINGLE_STEP,outcome
+Who is the chairman of the company that operates Suncoast Hotel and Casino?,hotpotqa,Frank Fertitta III,MULTI_STEP,fallback
+"Which is located in India, University of the Philippines or The Northcap University?",hotpotqa,The Northcap University,NO_RETRIEVAL,outcome
+To what group of plants do both Dieffenbachia and Carlina belong?,hotpotqa,"Neither Dieffenbachia nor Carlina belong to the same major group of plants. Dieffenbachia belongs to the Araceae family, while Carlina",SINGLE_STEP,outcome
+The Clavivox was invented by an American composer who was born Harry Warnow in what year?,hotpotqa,1947,SINGLE_STEP,outcome
+who is younger Keith Bostic or Jerry Glanville ?,hotpotqa,Keith Bostic is younger than Jerry Glanville.,NO_RETRIEVAL,outcome
+"Grown-Ups starred the actor who was best known for which role on  ""'Allo 'Allo!""?",hotpotqa,Tim McInnerny,MULTI_STEP,fallback
+"Matilda of Chester, Countess of Huntingdon's father was the son of which woman?",hotpotqa,Matilda of Chester's father was the son of Margaret of Flanders.,MULTI_STEP,outcome
+"Which occurred first, the first publication of The Ladder or Heat?",hotpotqa,The first publication of The Ladder occurred first.,NO_RETRIEVAL,outcome
+Were Max Jacob and Connie May Fowler both memoirists?,hotpotqa,No,NO_RETRIEVAL,outcome
+"Which magazine has more issues each month, In These Times or Multinational Monitor?",hotpotqa,In These Times,SINGLE_STEP,outcome
+Rumble Fish was a novel by the author of the coming-of-age novel published in what year by Viking Press?,hotpotqa,1965,MULTI_STEP,fallback
+Bordan Tkachuk was the CEO of a company that provides what sort of products?,hotpotqa,Technology products.,MULTI_STEP,fallback
+"Who has won more awards, Dan Schneider or Helen Hunt?",hotpotqa,Helen Hunt,MULTI_STEP,fallback
+What foundation do scholars give for the likelihood of collaboration on a William Shakespeare Play written between 1588 and 1593?,hotpotqa,"Scholars base their likelihood of collaboration on textual and contextual evidence, including similarities in style, themes, and vocabulary across different plays from that period.",MULTI_STEP,outcome
+who influenced the electronic dance music who  made  Scotch Hausen album,hotpotqa,"Various artists and producers, including Daft Punk, Tiësto, and Deadmau5.",MULTI_STEP,fallback
+Jim Halsey guided the career of the musician who hosted what country variety show?,hotpotqa,"Jim Halsey guided the career of Simon Cowell, who hosted Britain's Got Talent.",MULTI_STEP,fallback
+Flowers in the Attic starred what actress known for playing Sally Draper on Mad Men?,hotpotqa,Claire Danes,MULTI_STEP,fallback
+"What organization is known for having a president who was convicted of felony charges that was harbored by his brother, another high ranking member?",hotpotqa,The organization is the United States Senate.,MULTI_STEP,fallback
+Was it  Ishmael Reed or Joseph Campbell who said Follow your bliss?,hotpotqa,Ishmael Reed,MULTI_STEP,fallback
+"Which breed of dog came first, the Norrbottenspets or the Blue Lacy?",hotpotqa,Norrbottenspets came first.,NO_RETRIEVAL,outcome
+What did the person in which the Toronto Pearson International Airport is named in honour of organize to win the Nobel Peace Prize?,hotpotqa,Elie Wiesel,SINGLE_STEP,outcome
+Are Maro Ajemian and Patricia Field both pianists?,hotpotqa,No.,NO_RETRIEVAL,outcome
+"Who is the psychologist who wrote about the disciple of the person known as the ""Wild Woman of Buttle""?",hotpotqa,Heinz Kohut,SINGLE_STEP,outcome
+"No issue, lelo tissue was started by which company that has the largest mobile network in Pakistan?",hotpotqa,Noor Group,SINGLE_STEP,outcome
+"Which came to market first, ""Hey Pa! There's a Goat on the Roof"" or ""Poleconomy""",hotpotqa,"""Poleconomy""",MULTI_STEP,fallback
+"Which case came first, Craig v. Boren or United States v. Paramount Pictures, Inc.?",hotpotqa,Craig v. Boren came first.,NO_RETRIEVAL,outcome
+"What political office was held by two successive occupants of the same castle located in Lauderdale, Scotland?",hotpotqa,Earl of Lauderdale,MULTI_STEP,fallback
+"What tv series did Benny Ciaramello co-star in with a person that was also in the film ""The Bang-Bang Club""?",hotpotqa,"""Empire""",MULTI_STEP,outcome
+Name three best sellers from Arthur Hailey that were released before Donna Tartt was born.,hotpotqa,"The Hotel, Heaven's Gate, and Your Final Moments",SINGLE_STEP,outcome
+Where did Mark Pavelich win Gold in 1980?,hotpotqa,"Lake Placid, New York",MULTI_STEP,fallback
+"Manchester, New Hampshire is a part of the Northeast megalopolis which included what other major cities?",hotpotqa,"Boston, New York City, Philadelphia",MULTI_STEP,fallback
+How do the Peter Laufer books Forbidden Creatures and No Animals Were Harmed differ in their focus on animals?,hotpotqa,"Forbidden Creatures focuses on magical creatures, while No Animals Were Harmed focuses on documentary animal photography.",MULTI_STEP,fallback
+Who recorded the song written by Johnny Russell,hotpotqa,The Clifton Mitchell Singers,SINGLE_STEP,outcome
+Are Lycoris and Ammi both native to southern Asia?,hotpotqa,"No, Lycoris is not native to southern Asia, while Ammi is.",MULTI_STEP,fallback
+"YouPorn was surpassed, in 2013, by competitor sites xHamster, Pornhub, LiveJasmin, and this website that is registered to the Polish company WGCZ Holding? ",hotpotqa,AdultFriendFinder,SINGLE_STEP,outcome
+Which country is the Taipa island part of?,hotpotqa,Macau,SINGLE_STEP,outcome
+Which Genus has more species Eucryphia or Lepidozamia ?,hotpotqa,Eucryphia,NO_RETRIEVAL,outcome
+The Julian P. Kanter Political Commercial Archive has been designated an official project by an initiative to preserve and protect what?,hotpotqa,Historical political documents.,MULTI_STEP,outcome
+Where are the 17th Street Canal and the Beaver and Erie Canal located? ,hotpotqa,"The 17th Street Canal is located in New Orleans, Louisiana, while the Beaver and Erie Canal is located in Ohio, United States.",SINGLE_STEP,outcome
+The Toyota FJ Cruiser is built by this Toyota subsidiary which is a leading producer of what type of trucks in Asia?,hotpotqa,Toyota Hilux,SINGLE_STEP,outcome
+What team plays within the Big 12 Conference and has Kevin Bookout playing for them?,hotpotqa,Texas Tech University,MULTI_STEP,fallback
+"Shane and Friends have interviewed an American YouTube personality who has two active YouTube channels, which have a combined total of how many views?",hotpotqa,The question does not provide specific numbers; it only states that the combined total is unknown without further information.,SINGLE_STEP,outcome
+What song was number 4 on the charts when a song from FutureSex/LoveSounds was number 1?,hotpotqa,"""Bang"" by Drake",MULTI_STEP,fallback
+Securinega and Zamioculcas are both examples of what?,hotpotqa,Plants,MULTI_STEP,fallback
+Migene González-Wippler is leading expert on a religion that developed among which ethnic group ?,hotpotqa,Yanomami,MULTI_STEP,fallback
+Were Joss Whedon and Norman Mailer both Americans?,hotpotqa,Yes,NO_RETRIEVAL,outcome
+Michael J. Hunter replaced the lawyer who became the administrator of which agency?,hotpotqa,Michael J. Hunter replaced the lawyer who became the Administrator of the Securities and Exchange Commission (SEC).,SINGLE_STEP,outcome
+What basketball player elected to the National Collegiate Basketball Hall of Fame released music through Rendezvous Music?,hotpotqa,J.R. Galloway,SINGLE_STEP,outcome
+What song written by Jimmy Webb inspired the name of a supergroup including Johnny Cash?,hotpotqa,Wichita Lineman,SINGLE_STEP,outcome
+Are NRG Energy and Raymond James Financial  based in Great Britain?,hotpotqa,No.,NO_RETRIEVAL,outcome
+"Which was released first, The Greatest Game Ever Played or Hot Lead and Cold Feet?",hotpotqa,Hot Lead and Cold Feet,NO_RETRIEVAL,outcome
+Where were the brothers from that manufactured the balloon in which François Laurent d'Arlandes andJean-François Pilâtre de Rozier made the first manned free balloon flight? ,hotpotqa,France,MULTI_STEP,fallback
+Which group of outlaws from the 1890s shares a name with a Yugoslav rock band?,hotpotqa,The Black Flags,MULTI_STEP,fallback
+"Cave-In-Rock, Illinois was a stronghold for serial killer/bandit brothers who operated in which century?",hotpotqa,19th century,MULTI_STEP,fallback
+What occupation was shared by David Yates and Pietro Germi?,hotpotqa,Film director.,NO_RETRIEVAL,outcome
+What river is the city that Cyprus Classic Motorcycle Museum is in on the banks of?,hotpotqa,Nicosia River,SINGLE_STEP,outcome
+What was the former name of the company which operates Hunterston Terminal?,hotpotqa,Celtic Bulk Terminals,MULTI_STEP,fallback
+Camp Courtney was named after the Major killed in action at the battle codenamed what?,hotpotqa,"Camp Courtney was named after Major John Courtney, who was killed in action during Operation Torch.",MULTI_STEP,outcome
+The arena in which the Adelaide Adrenaline play is also home to the world's first what?,hotpotqa,Formula One racing team.,SINGLE_STEP,outcome
+A puzzle-platform video game developed by the Valve Corporation is part of what 2012 action-adventure game?,hotpotqa,Half-Life: Alyx,SINGLE_STEP,outcome
+What is the middle name of the female MSNBC journalist critiqued on the Daily Howler?,hotpotqa,Samantha Joy Presser,MULTI_STEP,fallback
+"What event in 1920 was established by the director of the play ""The Miracle?""",hotpotqa,The League of Nations was established.,SINGLE_STEP,outcome
+Were Thomas H. Ince and Joseph McGrath of the same nationality?,hotpotqa,No,NO_RETRIEVAL,outcome
+Andrew Jaspan was the co-founder of what not-for-profit media outlet?,hotpotqa,Andrew Jaspan was the co-founder of Climate Accountability Institute.,SINGLE_STEP,outcome
+Prominent Danish Tibetologist Per Kjeld Sørensen is a professor of Central Asian Studies at Leipzig University that was founded by who?,hotpotqa,Ernest Gombrich.,MULTI_STEP,outcome
+Are Francis Ford Coppola and Jack Hill both American?,hotpotqa,Yes,NO_RETRIEVAL,outcome
+Scott Sandelin grew up in a town in what Minnesota county?,hotpotqa,Scottish County,MULTI_STEP,outcome
+Welcome to Nollywood and Out of the Shadow are both what?,hotpotqa,Films,MULTI_STEP,fallback
+"Which of these is further south in China, the Pulandian District or Kaiyuan, Liaoning?",hotpotqa,"Kaiyuan, Liaoning",SINGLE_STEP,outcome
+when was Quiet in Heaven/Song of Liberty recorded?,hotpotqa,"Quiet in Heaven was recorded in 1994, and Song of Liberty was recorded in 2003.",MULTI_STEP,fallback
+What is the National Grape Cooperative Association classified as?,hotpotqa,Non-profit organization.,MULTI_STEP,fallback
+"Who was the director of 1935 American crime drama film, which was the feature film debut if the classic actor born on May 20,1908 ?",hotpotqa,"John Ford directed ""The Iron Horse,"" which was the feature film debut of Henry Fonda.",SINGLE_STEP,outcome
+Do Matthew Good Band and Sleep Room play the same type of music?,hotpotqa,No.,MULTI_STEP,fallback
+"Which writer of ""Rewrite This Story"" are an American songwriting duo and composing team for musical theater, films, and television?",hotpotqa,Alan Menken and Howard Ashman,SINGLE_STEP,outcome
+"Which river flows next to the German town where the music project ""I Drink My Coffee Alone"" by Alex Gazin originates from?",hotpotqa,"The River Isar flows next to the German town where the music project ""I Drink My Coffee Alone"" by Alex Gazin originates from.",MULTI_STEP,fallback
+What was need in order to diverge from the chinese ritual uniting spouses by pre-arrangement between families?,hotpotqa,Legal reforms and social movements advocating for individual choice.,MULTI_STEP,outcome
+"Which of these artists is older, Warrel Dane or Roy Khan?",hotpotqa,Warrel Dane,NO_RETRIEVAL,outcome
+What was Thomas Boutflower Bennet's role at The Collegiate School of St Peter?,hotpotqa,Principal,MULTI_STEP,fallback
+What career did Markus Feehily and Bobby Fuller have in common?,hotpotqa,Musician,MULTI_STEP,fallback
+what is the english name of Émile Verdets editorial?,hotpotqa,"""Towards a New Digital Strategy for SMEs""",MULTI_STEP,fallback
+What kind of species on the Indonesian island of java might participate in a Rampokan.,hotpotqa,Indonesian indigenous tribes or communities.,MULTI_STEP,fallback
+What space mission is the Rear Admiral astronuat born 1923 known for?,hotpotqa,Apollo 8,MULTI_STEP,fallback
+"Which Italian classical composer, conductor, and teacher born in 1750 composed this four-movement serenade in B-flat major for five instruments (2 oboes, 2 horns and 1 bassoon)?",hotpotqa,Wolfgang Amadeus Mozart,SINGLE_STEP,outcome
+What region of Italy was Giorgio Pini born in?,hotpotqa,Emilia-Romagna,MULTI_STEP,fallback
+"Thomas Maclellan of Bombie was Provost of what town, as well as constructing MacLellan's Castle in the center of that town?",hotpotqa,Dunfermline,MULTI_STEP,fallback
+The musical composer of Manru was a spokesman for what country's independence?,hotpotqa,"The musical composer of ""Manru"" (likely referring to the opera ""Manru"" by Giuseppe Verdi) was a spokesman for Italy's independence.",MULTI_STEP,fallback
+What year was the player the Los Angeles Clippers aquired from the Atlanta Hawks born?,hotpotqa,1984,MULTI_STEP,fallback
+What Harry Potter actor strred in My Boy Jack?,hotpotqa,Daniel Radcliffe,NO_RETRIEVAL,outcome
+What part did Dan Lewis play for Arsenal Football Club?,hotpotqa,Dan Lewis played for Arsenal Football Club as a midfielder.,SINGLE_STEP,outcome
+Luther: The Calling is based on the BBC crime drama comprising six episodes that were run in which year?,hotpotqa,2010,NO_RETRIEVAL,outcome
+"The album that contains the song ""Get Together"" by Madonna was mainly recorded in whose home studio?",hotpotqa,John Lennon's,MULTI_STEP,fallback
+"The lead vocalist of the group ""Tenacious D"" plays a supporting role along with Dennis Leary and Will Patton in a film that received what award at the 1999 Venice Film Festival?",hotpotqa,The award was the Golden Lion for Best Film.,MULTI_STEP,fallback
+What was the album by Coldplay after the one with a song referencing Chris Martin's unrequited love?,hotpotqa,"""Viva La Vida""",MULTI_STEP,outcome
+God Is Not Great is by a journalist which due to his actions made him what?,hotpotqa,"God Is Not Great is by Christopher Hitchens, who became an atheist due to his actions.",MULTI_STEP,fallback
+"In the NASA mission where Moon trees were taken into space, what was the nickname of the Command Module?",hotpotqa,Apollo 14,SINGLE_STEP,outcome
+Two of the pharmacy schools are Midway College School of Pharmacy and which first for-profit college or university to receive the Southern Association of Colleges and Schools?,hotpotqa,Mercy College of Ohio,MULTI_STEP,fallback
+"Which American swimmer, coached by Ray Looze, won a bronze medal in the men's 100 meter breaststroke at the 2016 Summer Olympics?",hotpotqa,Michael Phelps,SINGLE_STEP,outcome
+What year was George Harrison's top UK charted song voted the nations 11th favorite 1980s number?,hotpotqa,1987,SINGLE_STEP,outcome
+What is the company that currently recognizes the sprinting records set by Leni Junker and Florence Griffith-Joyner?,hotpotqa,Alibaba Cloud,MULTI_STEP,outcome
+"Which game was published first, Near and Far or King of Tokyo?",hotpotqa,King of Tokyo was published first.,NO_RETRIEVAL,outcome
+What group of Elektra Records recording artists are known to be an indie pop band?,hotpotqa,Chvrches,SINGLE_STEP,outcome
+When was the colony William Bradford was governor of founded?,hotpotqa,1620,NO_RETRIEVAL,outcome
+What was the code name of The landing barge primarily used to provide hot meals to the landing crew?,hotpotqa,Kilroy,MULTI_STEP,fallback
+The home video game console that was developed by Sony Computer Entertainment is a platform for a racing video game developed by who?,hotpotqa,Sonic Team,MULTI_STEP,fallback
+"Who was born earlier, Robert Mulligan or James Foley?",hotpotqa,Robert Mulligan,MULTI_STEP,fallback
+Armand Castelmary played Horatio in the 1868 version of the opera set to a play by whom?,hotpotqa,William Shakespeare,NO_RETRIEVAL,outcome
+Altnahinch is located in a county that has a population density of how many per square mile? ,hotpotqa,150,MULTI_STEP,outcome
+Faith Goldy got fired after an interview she gave on what production site edited by Andrew Anglin?,hotpotqa,Alternative Press Network,SINGLE_STEP,outcome
+"The football maneuver, known as the horse-collar tackle is most closely associated with a player that was drafted by what NFl team in 2002?",hotpotqa,"Trent Cole, drafted by the Philadelphia Eagles.",MULTI_STEP,fallback
+"What party was Johan Henrik Deuntzer a part of before the party that translates to the ""Radical Left?""",hotpotqa,Communist Party,MULTI_STEP,outcome
+In what New York town did Glenn Martin Hughes attend high school?,hotpotqa,Scarsdale,MULTI_STEP,fallback
+" Which movie did Disney produce first,  The Many Adventures of Winnie the Pooh or Ride a Wild Pony?",hotpotqa,Ride a Wild Pony,NO_RETRIEVAL,outcome
+"The actress who played Laurie Keller in the episode ""Pilot"" of the show Cougartown won what award in 2011?",hotpotqa,"The actress who played Laurie Keller in the episode ""Pilot"" of Cougartown is Sarah Chalke, and she won an Emmy Award in 2",MULTI_STEP,outcome
+"Rowland Salley's best-known tune is ""Killing the Blues"", which has been most recently covered by which American singer-songwriter active mainly in the outlaw country music and Southern rock genres?",hotpotqa,Chris Stapleton,SINGLE_STEP,outcome
+"What kind of producer is the person who helped created ""The Spiderwick Cronicles"" with Holly Black?",hotpotqa,Author and illustrator,MULTI_STEP,fallback
+"Between two scientists Ernst Messerschmid and Philippe Perrin, who is older?",hotpotqa,Ernst Messerschmid,MULTI_STEP,fallback
+What was the position in the United States Army of the Lieutenant general that Confederate General Robert E. Lee surrendered to?,hotpotqa,Major General Ulysses S. Grant,MULTI_STEP,fallback
+The winner of the FIA World Endurance Championship in 2013 drove the Toyota TF101 with who?,hotpotqa,Jenson Button,MULTI_STEP,outcome
+How much Argentina currency was involved in Boudougate?,hotpotqa,Several billion Argentine pesos.,MULTI_STEP,fallback
+Are 9 DeKalb Avenue and New York World Building both skyscrapers in Brooklyn?,hotpotqa,No,NO_RETRIEVAL,outcome
+"Which film is older, Monsters, Inc. or Earth?",hotpotqa,"Earth is older; it's a documentary released in 2009, while Monsters, Inc. was released in 2001.",NO_RETRIEVAL,outcome
+"Professional cyclist Sara Symington competed in which Olympic Games held in Sydeney, Australia?",hotpotqa,Sydney 2000 Olympics,MULTI_STEP,fallback
+"Abba Kovner  was a Jewish Hebrew and Yiddish poet, writer and cousin of the youngest and longest surviving signatory of what?",hotpotqa,The Protocols of the Elders of Zion.,SINGLE_STEP,outcome
+"How is Christopher Buckley related to the founder of ""National Review"" magazine?",hotpotqa,"Christopher Buckley is the son of William F. Buckley Jr., the founder of ""National Review"" magazine.",NO_RETRIEVAL,outcome
+"What are the publishing years of this American and New York based film magazine published by Hachette Filipacchi Media U.S., where April Bernard worked as senior editor?",hotpotqa,2003,MULTI_STEP,fallback
+Does the band God Lives Underwater or the band The Dear Hunter come from a larger state?,hotpotqa,God Lives Underwater,NO_RETRIEVAL,outcome
+"The Mutlu Onaral album ""Livin' It"" was produced by the bassist for what duo?",hotpotqa,"The Mutlu Onaral album ""Livin' It"" was produced by the bassist of Durres Durmus and Hüsnü Şenlendir",MULTI_STEP,fallback
+The 2017 Los Angeles Chargers season was the first season under which coach that began his professional coaching career with the Denver Broncos in 2000?,hotpotqa,Mike McCoy,SINGLE_STEP,outcome
+"Which board game, Attack! or Can't Stop, was published first?",hotpotqa,Attack! was published first.,SINGLE_STEP,outcome
+What is common between Matt Vasgersian and Michael Casey?,hotpotqa,None,MULTI_STEP,fallback
+The Austrian border barriers at facilities like South Tyrol was designed to designed to manage what?,hotpotqa,Migration and control.,MULTI_STEP,fallback
+"Hoy Es Manana is by what Mexican Actress and singer, who is the current First Lady of Chiapas State, Mexico?",hotpotqa,María de Lourdes Sosa,SINGLE_STEP,outcome
+Both Tsai Ming-liang and Giacomo Gentilomo were involved with which profession?,hotpotqa,Directors.,SINGLE_STEP,outcome
+"Which documentary was made first, The Shame of a City or Unchained Memories?",hotpotqa,Unchained Memories,NO_RETRIEVAL,outcome
+"Which became a Cathedral first St Chad's Cathedral, Birmingham or Chelmsford Cathedral?",hotpotqa,Chelmsford Cathedral,MULTI_STEP,fallback
+What is the nickname of the singer with which Castor McCord played with in the 1920s?,hotpotqa,Bing Crosby,MULTI_STEP,fallback
+"What two countries headquarter the clothing company that the photographer ""Facehunter"" contributed to?",hotpotqa,China and Japan,MULTI_STEP,fallback
+Where are people with ADolf Bestelmeyer's nationality from?,hotpotqa,Mexico,MULTI_STEP,fallback
+Kiki Preston was the alleged mother of a child born out of wedlock with a prince born in which year ?,hotpotqa,1984,MULTI_STEP,fallback
+John Alexander and Trent Alexander-Arnold are professional footballers from which country?,hotpotqa,England,NO_RETRIEVAL,outcome
+"Who has released more studio albums, 10 Years or Edward Sharpe and the Magnetic Zeros?",hotpotqa,Edward Sharpe and the Magnetic Zeros,MULTI_STEP,fallback
+"Who wrote shorter stories, Raymond Carver or Lydia Davis?",hotpotqa,Lydia Davis,NO_RETRIEVAL,outcome
+"Who is the American actress performed ""Take On The World"" with Sabrina Carpenter?",hotpotqa,Miley Cyrus,SINGLE_STEP,outcome
+What college teamdid the point guard that led the way for Philedlphia 76ers in the 2017-18 season play basketball in?,hotpotqa,Michigan State,SINGLE_STEP,outcome
+"Mooreville, Mississippi is located on which Interstate highway that follows US Route 78?",hotpotqa,Interstate 55,SINGLE_STEP,outcome
+What is name of one of the primary holders of Schottenstein Stores Corp which was born in 1954?,hotpotqa,Irving Schottenstein,SINGLE_STEP,outcome
+The man who currently serves as the wide receivers coach for the Dallas Cowboys used to coach at what college?,hotpotqa,Tulane University,MULTI_STEP,fallback
+"Where is the headquarters for the advertising agency which is recognized for its work on a campaign for the founder of ""Complex"" magazine?",hotpotqa,New York,NO_RETRIEVAL,outcome
+The design team for role playing game Black Crusade featured the work of this designer who was the lead developer for what game?,hotpotqa,John Blanche; Descent series,MULTI_STEP,fallback
+How many chapters does Yōko Shōji's most famous manga have?,hotpotqa,1000,SINGLE_STEP,outcome
+This annual event held in several major cities in Finland is one of many all-night arts festival whose name is given to areas of high latitude in the weeks around what?,hotpotqa,Midsummer Night,SINGLE_STEP,outcome
+"When was the American singer, songwriter, actress and LGBT rights activist born who won Grammy and Emmy award?",hotpotqa,Kerry Washington was born in 1976.,MULTI_STEP,fallback
+When was the person who did the music for Manru born?,hotpotqa,"The question is incomplete and lacks specific information about which ""Manru"" is being referred to. Without this context, it's impossible to determine the birth year of",MULTI_STEP,fallback
+What is the population of the province Herald Provincial Park is in?,hotpotqa,"The question seems to contain an error; there is no province called ""Herald."" Herald Provincial Park is located in British Columbia, Canada. The population of British",MULTI_STEP,fallback
+"Which English former professional footballer ho played as a centre-back, did  Chris Jones played with ",hotpotqa,Gary Neville,MULTI_STEP,fallback
+"What was the other single from Eric Stewart and Graham Gouldman's band's 1975 album, besides ""I'm Not in Love""?",hotpotqa,"""Caravan""",MULTI_STEP,fallback
+Between Parsifal and Saul og David which opera has more acts?,hotpotqa,Parsifal,SINGLE_STEP,outcome
+What do Lavinia Greenlaw and Nâzım Hikmet have in common?,hotpotqa,Both are poets.,MULTI_STEP,fallback
+"Who was born earlier, Johnny Lujack or Jim Kelly?",hotpotqa,Johnny Lujack,MULTI_STEP,fallback
+How many people were in the group which preceded the release of Eric Clapton's 1975 album E.C. Was Here? ,hotpotqa,Unknown,MULTI_STEP,fallback
+"The terminology of algebraic geometry changed drastically with the introduction of the general methods, initiated by a mathematician of what nationality?",hotpotqa,French,MULTI_STEP,fallback
+In what year was the coach who led the 2007 South Carolina Gamecocks football team in his third season as USC head coach born?,hotpotqa,1964,MULTI_STEP,fallback
+"Which goalkeeper was nicknamed the ""Black Spider"", Turgay Şeren or Lev Yashin?",hotpotqa,Turgay Şeren,SINGLE_STEP,outcome
+"Len Wiseman directed ""Live Free or Die Hard"" which is the 4 installment in the Die Hard film franchise base on what character?",hotpotqa,John McClane,NO_RETRIEVAL,outcome
+"Which Italian-American composer and librettist wrote the English language opera, Maria Golovin?",hotpotqa,Samuel Barber,SINGLE_STEP,outcome
+Which airport served more people in 2015 Asheville Regional Airport or Orlando International Airport ?,hotpotqa,Orlando International Airport served more people in 2015.,NO_RETRIEVAL,outcome
+what season of shark tank did Roominate get invsetments,hotpotqa,Season 10,MULTI_STEP,fallback
+"In which year was this English singer, songwriter, musician, activist and a co-founder of the Beatles born, whose classmate Bill Harry founded Mersey Beat at Liverpool Art College?",hotpotqa,1940,MULTI_STEP,fallback
+"Who plays in both The True Adventures of Wolfboy and ""The Knick""?",hotpotqa,Noah Schnapp,MULTI_STEP,fallback
+Are Portland International Airport and Gerald R. Ford International Airport both located in Oregon?,hotpotqa,No.,NO_RETRIEVAL,outcome
+"What forim is Nicholas Dante most famous for writing in, musical, such as ""A Chorus Line"", or epic verse like ""Inferno""?",hotpotqa,"Musical; ""A Chorus Line""",NO_RETRIEVAL,outcome
+"After whom was the area, where  The Phillips Collection is located, named ?",hotpotqa,Phillips,MULTI_STEP,fallback
+What is part of an alternate title to a Three 6 Mafia song and is slang for a concoction which includes prescription-strength cough syrup also known as purple drank?,hotpotqa,4-20,MULTI_STEP,fallback
+"What is this fictional scientifically and technologically advanced militaristic alien race, from which Sequoia descends, is called?",hotpotqa,K径ians,MULTI_STEP,fallback
+What is the surname of the Italian composer of the works for which the baritone Giovanni Polese was celebrated?,hotpotqa,Verdi,NO_RETRIEVAL,outcome
+What kind of film was the film who featured Auli'i Cravalho?,hotpotqa,Mulan,SINGLE_STEP,outcome
+"Billy King was an Australian rules footballer who participated in a game that was contested between the South Melbourne Football Club and Carlton Football Club, and was held at what location in Melbourne in 1945?",hotpotqa,Princes Park,NO_RETRIEVAL,outcome
+What type of film is Jordan Roberts 2017 film release?,hotpotqa,Drama,MULTI_STEP,fallback
+Han Chae-young was in the 2009 drama that aired on what network?,hotpotqa,KBS,MULTI_STEP,outcome
+Where was the armory at which Model 1840 flintlock musket was produced located? ,hotpotqa,England,MULTI_STEP,fallback
+"What year was the early consumer co-operative, in which a 2012 British biographical feature film tells the story of, formed?",hotpotqa,1847,SINGLE_STEP,outcome
+Charles Haughey held what position when he dissolved the list of members who were elected to the lower house of the Oireachtas of Ireland on 25 May 1989?,hotpotqa,Prime Minister of Ireland,MULTI_STEP,fallback
+"What movie included Robin Williams along with Joshua Aaron Charles, set in 1959 at a Vermont boarding school?",hotpotqa,Dead Poets Society,NO_RETRIEVAL,outcome
+"What player mentioned in ""The Breaks of the Game"" was inducted into the Naismith Memorial Basketball Hall of Fame on May 10, 1993?",hotpotqa,Magic Johnson,SINGLE_STEP,outcome
+What position does the First Vice Captain of Juventus play?,hotpotqa,Midfielder,MULTI_STEP,fallback
+How many records did Shane Lynch sell as a member of Boyzone?,hotpotqa,Over 100 million records.,SINGLE_STEP,outcome
+Which band The Innocence Mission or Starflyer 59 was formed first ?,hotpotqa,The Innocence Mission,NO_RETRIEVAL,outcome
+"Which singer is younger, Terri Nunn or Sonya Scarlet? ",hotpotqa,Terri Nunn,SINGLE_STEP,outcome
+"Who is older, Ferdi Taygan or Mahesh Bhupathi?",hotpotqa,Mahesh Bhupathi is older.,SINGLE_STEP,outcome
+"Who was the main vocal of ""Set the Fire to the Third Bar""?",hotpotqa,Stevie Nicks,MULTI_STEP,fallback
+Penny Rae Bridges starred in a television sitcom with what other actor?,hotpotqa,"Penny Rae Bridges starred in ""Full House"" with Bob Saget.",MULTI_STEP,fallback
+The was the album with the song  Unbelievable by American rapper The Notorious B.I.G released?,hotpotqa,"Biggie Smalls' ""Life After Death"" album.",MULTI_STEP,fallback
+Who directed a 2009 comedy released by BBC Films?,hotpotqa,Danny Boyle,SINGLE_STEP,outcome
+Rob is an American sitcom that starred what American actress who was best known for portraying Yolanda Saldivar in the film Selena?,hotpotqa,Jennifer Lopez,MULTI_STEP,fallback
+What industry does Edgar Selwyn and Chantal Akerman work in?,hotpotqa,Film and cinema.,MULTI_STEP,fallback
+The We The People Amendment was introduced by the U.S. Representative for what congressional district?,hotpotqa,The We The People Amendment was introduced by the U.S. Representative for New York's 22nd congressional district.,SINGLE_STEP,outcome
+What is the height of the tallest mountain from which the Glen River flows?,hotpotqa,"Mount Elbert, 4,401 m (14,440 ft).",MULTI_STEP,fallback
+The Memphis Hustle are based in a suburb of a city with a population of what in 2010?,hotpotqa,"437,988",SINGLE_STEP,outcome
+"After partially sinking in 1994, Celestyal Crystal was rebuilt for the purpose of what Bermudian company?",hotpotqa,Celestyal Crystal was rebuilt after partially sinking in 1994 for the purpose of the Bermuda Cruise Line.,MULTI_STEP,fallback
+Have James Schuyler and H. G. Wells both published books?,hotpotqa,Yes,NO_RETRIEVAL,outcome
+Which team based in South Wales participated in a final game of 1980 Welsh Cup Final?,hotpotqa,Ospreys,SINGLE_STEP,outcome
+"What is the birthdate of this King of Italy, claiming thrones of Ethiopia and Albania and father of Princess Yolanda of Savoy?",hotpotqa,1870-05-29,SINGLE_STEP,outcome
+"In 2010, what was the population for a state which is known for Annalee Dolls?",hotpotqa,North Carolina,MULTI_STEP,fallback
+"Katrina Ross starred in ""The Singing Nun"" with who as the title role?",hotpotqa,"Katrina Ross starred in ""The Singing Nun"" with Regis Philbin as the title role.",SINGLE_STEP,outcome
+"Who lived longer, American author Owen Wister or Canadian author Lucy Maud Montgomery? ",hotpotqa,American author Owen Wister lived longer.,NO_RETRIEVAL,outcome
+The mother of  Megan Phelps-Roper is best known as the former spokesperson of a church located in what city?,hotpotqa,"Jacksonville, Florida",SINGLE_STEP,outcome
+Who created the series in which Liza Weil played Bonnie Winterbottom?,hotpotqa,Alison Lohman,SINGLE_STEP,outcome
+"When was the only long-term psychiatric hospital operated founded in a county in the USA with a population of 9,298 in 2010?",hotpotqa,2010,MULTI_STEP,fallback
+When was the  former Indian cricketer who made his ODI debuts during the 2000 ICC KnockOut Trophy born? ,hotpotqa,1978,SINGLE_STEP,outcome
+"Which Canadian Province was captured with the support of the Mi'kmaq, Maliseet, Passamaquoddy, Abenaki, and Penobscot?",hotpotqa,Nova Scotia,NO_RETRIEVAL,outcome
+ Who was the founder of a chain of supermarkets that is now headquartered on Nott Street in Schenectady?,hotpotqa,James Cash Penney,SINGLE_STEP,outcome
+"What concert tour headlined by Coal Chamber in 1999 was named after the popular hit song by the Puerto Rican singer Ricky Martin, spanish for ""the crazy life""?",hotpotqa,Headbangers Ball,MULTI_STEP,fallback
+What three states junction is near the gap that Peter Hackett traveled along during the Scotish-Irish migration along the Wilderness Road?,hotpotqa,Daniel Boone's Gap,MULTI_STEP,fallback
+What type of structure does 277 Park Avenue and 126 Madison Avenue have in common?,hotpotqa,Skyscrapers,MULTI_STEP,fallback
+Who replaced the manager of the Aston Villa that began at Leeds United?,hotpotqa,Steve Bruce,MULTI_STEP,outcome
+What number installment of the Ghost School and Ghost School Horror was the film Voice?,hotpotqa,"The film ""Voice"" was the 2nd installment of the ""Ghost School"" and ""Ghost School Horror"" series.",MULTI_STEP,fallback
+Which was published first Polarity or The Farming Game?,hotpotqa,Polarity,SINGLE_STEP,outcome
+Palestine Brigade RAF was a response to which English soldier's request for an air formation?,hotpotqa,Palestine Brigade RAF was a response to Winston Churchill's request for an air formation.,MULTI_STEP,fallback
+What is the seventh book of the Hebrew and Christina bible and also has Quran references to the river drinking experience?,hotpotqa,Revelation,MULTI_STEP,fallback
+"Vices and Virtues, coincidentally released just four days after ""Vices & Virtues"" by Las Vegas band Panic! at the Disco, was the second studio album by which Canadian rock band?",hotpotqa,Sum 41,SINGLE_STEP,outcome
+"József Viola's association was most prominent with which professional Italian football club in Turin, Piedmont?",hotpotqa,A.C. Torino,MULTI_STEP,fallback
+One of the members of Dru Hill is nicknamed after which cartoon character?,hotpotqa,Scooby-Doo,SINGLE_STEP,outcome
+"when the Marlins are the home team, games are played at this park which was LEED certified as the greenest MLB park in what year?",hotpotqa,2012,NO_RETRIEVAL,outcome
+Bobby Bowden coached which former Toronto Blue Jays minor league baseball player?,hotpotqa,Bobby Bowden coached Travis Fryman.,SINGLE_STEP,outcome
+The Collective for Living Cinema of Lower Manhattan featured work from what filmmaker also known as Denis Kaufman?,hotpotqa,Jim Jarmusch,SINGLE_STEP,outcome
+Which system of mountains in eastern North America is Hamburg Mountains a range region of,hotpotqa,Appalachian Mountains,NO_RETRIEVAL,outcome
+"When ""Good Night"" was aired on ""The Simpsons 138th Epsiode Spectacular,"" which actress did the voice of the character named after Matt Groening's mother?",hotpotqa,Sara Gilbert,SINGLE_STEP,outcome
+Walter Giffen is from a suburb of which South Australian city?,hotpotqa,"Walter Giffen is from a suburb of Adelaide, the capital city of South Australia.",NO_RETRIEVAL,outcome
+Are Dogo Cubano and the Dutch Shepherd both breeds of dog?,hotpotqa,Yes,NO_RETRIEVAL,outcome
+"What platinum selling track was included on the album ""The Warrior's Code"" with lyrics by Woody Guthrie?",hotpotqa,"""Rolling Stone""",SINGLE_STEP,outcome
+John ruskin named his album due to a removal of what?,hotpotqa,A river canyon,MULTI_STEP,fallback
+Theme Park Inc is a video game that created what sequel in North America in 1999?,hotpotqa,Tomb Raider: Tomb Raider 2,MULTI_STEP,fallback
+Bethpage State Parkway begins with an interchange at which Long Island-based limited access highway?,hotpotqa,Interstate 495,SINGLE_STEP,outcome
+What musical was inspired by the films that included Ruth Leuwerik's best known role?,hotpotqa,Annie,MULTI_STEP,fallback
+"In which year did this Russian actress  who produced and performed in the 1922 American silent drama film ""A Doll's House"" immigrate to the United States?",hotpotqa,1920,MULTI_STEP,fallback
+A golfer born in 1993 participated in which tournament?,hotpotqa,The Masters Tournament,MULTI_STEP,fallback
+A Therapy was written and directed by what French-Polish film director who was born in Paris?,hotpotqa,Andrzej Wajda,MULTI_STEP,fallback
+"Where is the county seat for people living in Henderson Point, Mississippi?",hotpotqa,"The county seat for Henderson Point, Mississippi, is not specified as it likely does not exist as a formal administrative division.",MULTI_STEP,fallback
+"Who directed the black comedy in 1984 that started the American actress and singer best known for her role as Sally Morrison on ""My Three Sons""?",hotpotqa,"George A. Romero directed ""Dawn of the Dead"" in 1984, which starred Judith Anderson.",MULTI_STEP,fallback
+"Which is a shrub, Mimosa or Cryptocoryne?",hotpotqa,Mimosa,NO_RETRIEVAL,outcome
+"On November 2, 2010, John Spratt lost to an AMerican politician who served in the South Carolina General Assembly from 2007 until when?",hotpotqa,2009,SINGLE_STEP,outcome
+which  American conglomerate company is  a subsidiary of Trump Entertainment Resorts ,hotpotqa,Dakota Pipeline LLC,MULTI_STEP,fallback
+When did the game which held three times in  in East Asia first held ,hotpotqa,1979,MULTI_STEP,fallback
+Does Frank Pepe Pizzeria Napoletana or Donatos Pizza have more locations?,hotpotqa,Frank Pepe Pizzeria Napoletana has more locations.,SINGLE_STEP,outcome
+"Which movie was released first, Fantastic Mr. Fox or Khan Kluay?",hotpotqa,Fantastic Mr. Fox,SINGLE_STEP,outcome
+What is the population of the town at the intersection of Interstate Highways 77 and  the longest Interstate highway within the borders of Virginia?,hotpotqa,"104,698",MULTI_STEP,fallback
+In which county is the town in which Raymond Robertsen was born ?,hotpotqa,Not enough information provided.,MULTI_STEP,fallback
+These three apps that have similar functionality to Google for Education are compatible with what Microsoft file format?,hotpotqa,"These apps are likely compatible with the Microsoft Office file formats, such as .docx and .xlsx.",NO_RETRIEVAL,outcome
+"The younger brother, who became king, of Princess Mafalda of Savoy reigned for how many days?",hotpotqa,The younger brother who became king of Princess Mafalda of Savoy was Umberto II of Italy. He reigned for 235 days before,MULTI_STEP,fallback
+" ""Prostitute"" is a song written by Axl Rose and Paul Tobias with additional work by an American guitarist has played in two different bands on a list of what? ",hotpotqa,Grammy nominations.,SINGLE_STEP,outcome
+What is the nationality of the most praised player in the 2002–03 Olympique de Marseille season?,hotpotqa,French,SINGLE_STEP,outcome
+"When was the movie released that starred an American male actor born on February 28, 1923 and was written by Christopher Knopf?",hotpotqa,"The movie was ""The Ten Commandments"" released in 1956.",MULTI_STEP,fallback
+Which building is taller Bertelsmann Building or 432 Park Avenue?,hotpotqa,432 Park Avenue,NO_RETRIEVAL,outcome
+Who was an American senior operations officer for the Central Intelligence Agency for 30 years and worked for Eclipse Group?,hotpotqa,Robert Philip Hanssen,MULTI_STEP,fallback
+Are David Schwimmer and James Wan in the same industry?,hotpotqa,No.,SINGLE_STEP,outcome
+Vincas Kudirka is the author of both the music and lyrics of a national anthem which has how many words?,hotpotqa,159,MULTI_STEP,fallback
+Josephine de Reszke made her debut in what grand opera?,hotpotqa,Faust,SINGLE_STEP,outcome
+The term snake eyes is used in a particular casino game that uses what game pieces?,hotpotqa,Dice,MULTI_STEP,fallback
+Stephen Smith appears on ESPN First Take alongside which HBO boxing commentator?,hotpotqa,Mike Krzyzewski,SINGLE_STEP,outcome
+"WHich college is located in the United States, Grand Valley State University or Carleton University?",hotpotqa,Grand Valley State University,MULTI_STEP,fallback
+"Although a dependent territory remains politically outside of the controlling state's integral area, what else can it contain?",hotpotqa,"It can contain its own culture, economy, and governance structures.",MULTI_STEP,fallback
+Ara Berberian sand for which role an opera by Giuseppe Verdi?,hotpotqa,"Ara Berberian sang the role of Zora in Giuseppe Verdi's opera ""Nabucco.""",MULTI_STEP,outcome
+What was the name of the alum by the Scorpions that contained one of their most famous songs written by Klaus Meine and Herman Rarebell?,hotpotqa,"""Rock You Like a Hurricane""",SINGLE_STEP,outcome
+What muffler repair shop owner inspired Andrey Zvyagintsev's film Leviathan?,hotpotqa,Vladimir Klishin,MULTI_STEP,fallback
+"Which genus of flowering plant is found in an environment further south, Crocosmia or Cimicifuga?",hotpotqa,Crocosmia,NO_RETRIEVAL,outcome
+When was the younger brother of Farshid Karimi born ?,hotpotqa,2005,MULTI_STEP,fallback
+Where is the location of Liberty Square park in Disneyland California?,hotpotqa,Liberty Square is located in the Magic Kingdom section of Disneyland California.,MULTI_STEP,outcome
+"Who was this American Founding Father, a proponent of democracy, republicanism, and individual rights, examined Ice Age fossils of Kentucky's Big Bone Lick?",hotpotqa,Thomas Jefferson,NO_RETRIEVAL,outcome
+Which Outer Banks landmark and premiere BBQ restaurant has been featured in the magazine Southern Living?,hotpotqa,The Peacock Inn,SINGLE_STEP,outcome
+"Who was the lead character designer on ""Pepper Ann"", and the creator of Cartoon Network's 13th ""Cartoon Cartoons""?",hotpotqa,Eric Radomski,MULTI_STEP,fallback
+The casino owner who was focused on the documentary Nobody Speak: Trials of the Free Press focuses belongs to which nationality? ,hotpotqa,American,NO_RETRIEVAL,outcome
+What is the name the French give to the war during which the Prussians occupied the Pavillon du Butard?,hotpotqa,The Franco-Prussian War,MULTI_STEP,fallback
+"Stanley ""Tookie"" Williams founded which African-American gang in Los Angeles, California in 1969?",hotpotqa,Crips,NO_RETRIEVAL,outcome
+Gleanntáin Ghlas' Ghaoth Dobhair is a song that can be heard in pubs licensed to serve what?,hotpotqa,Whiskey,MULTI_STEP,fallback
+who starred in the English-language Danish experimental horror film  which  Lars von Triers received award for ,hotpotqa,Charlotte Gainsbourg,SINGLE_STEP,outcome
+"Felicia Pearson is a rapper who appeared in the single ""Here I Am"" by who?",hotpotqa,"Felicia Pearson is a rapper who appeared in the single ""Here I Am"" by T-Pain.",SINGLE_STEP,outcome
+Which direction do both the M1 and the M6 Motorways travel?,hotpotqa,Both the M1 and the M6 Motorways travel north-south.,MULTI_STEP,fallback
+The author of Some Other Rainbow was born on what day and year?,hotpotqa,"The author of ""Some Other Rainbow"" is not specified in the question, so I cannot provide the birth date and year.",MULTI_STEP,fallback
+Operation Cold Comfort was a failed raid by a special forces unit founded in what year?,hotpotqa,1941,NO_RETRIEVAL,outcome
+What party does the person that represents Stoke Newington Central belong to?,hotpotqa,Labour Party,MULTI_STEP,fallback
+"In which year was the American politician, that both represented New York in the United States Senate and served as an adviser to President Richard Nixon, re-elected for a fourth term as U.S. Senator?",hotpotqa,1972,SINGLE_STEP,outcome
+Who directed the second film in a British series of action comedy film parodying the James Bond secret agent genre with comedy similar to Rowan Atkinson's Mr. Bean character?,hotpotqa,Roger Miller,SINGLE_STEP,outcome
+Viscount Yamaji Motoharu was a general in the early Imperial Japanese Army which belonged to which Empire?,hotpotqa,Tokugawa Empire.,MULTI_STEP,outcome
+How many episodes were in the original run of the HBO show that Kristin Davis played the character Charlotte York Goldenblatt?,hotpotqa,120,MULTI_STEP,outcome
+Timothy J. Sloan was the CEO of Wells Fargo who succeeded the CEO who took the job in what month?,hotpotqa,March 2016,MULTI_STEP,fallback
+Were both Pam Shriver and Amélie Mauresmo alive in the 1960s?,hotpotqa,No,NO_RETRIEVAL,outcome
+Stewart Nozette is currenlty serving time in a correctional facility operated by which government agency?,hotpotqa,Stewart Nozette is currently serving time in a correctional facility operated by the Florida Department of Corrections.,SINGLE_STEP,outcome
+When was the football club founded in which Walter Otto Davisplayed at centre forward?,hotpotqa,1902,MULTI_STEP,fallback
+"Which film director is younger, Manoel de Oliveira or Alfonso Cuarón?",hotpotqa,Alfonso Cuarón,NO_RETRIEVAL,outcome
+"When was the director of an American short slasher film with French-speaking serial killers that was released on October 31, 2011 born?",hotpotqa,25 September 1976,MULTI_STEP,outcome
+What running back ended his career in 2006 and was one of the rushers Matt O'Dwyer blocked for?,hotpotqa,Walter Payton,SINGLE_STEP,outcome
+"1995's ""Highest paid model"" according to Forbes played a what in the film ""Fair Game""?",hotpotqa,She played Lindsey Graham.,MULTI_STEP,fallback
+Who composed the theme music in 1989 of an animated television series which has the current arrangement by a person who  has scored or orchestrated music for more than 30 films and television shows?,hotpotqa,John Powell,MULTI_STEP,outcome
+Are the magazines American Heritage and Bon Appétit both published in America?,hotpotqa,Yes.,NO_RETRIEVAL,outcome
+Which Grammy Nominated album was created by a band whose members include John Bowman?,hotpotqa,"""Rumours"" by Fleetwood Mac",MULTI_STEP,fallback
+"Who did Muhummad Ali fight next, in Houston, after the so-called Fight of the Century with Joe Frazier?",hotpotqa,Joe Frazier,SINGLE_STEP,outcome
+The scientists who discovered Tedatioxetine were from what international pharmaceutical company?,hotpotqa,The scientists who discovered Trazodone were from Wyeth.,MULTI_STEP,fallback
+Were the films Tonka and 101 Dalmatians released in the same decade?,hotpotqa,No,MULTI_STEP,fallback
+"Which was fought earlier in our nation's history, the Seven Days Battles or the Battle of Manila?",hotpotqa,Seven Days Battles,NO_RETRIEVAL,outcome
+Who was the pivotal in the formation of schools catering for the primary and early secondary education of children in remote and outback Australia?,hotpotqa,Sir John Monash.,MULTI_STEP,fallback
+Peter and the Wolf was originally released as a segment of an animated anthology released to theaters on which day ?,hotpotqa,"December 14, 1936",MULTI_STEP,outcome
+What is the name of the conditions that the radiologist who served as chief of radiology at the U.S. Army's flagship medical center from 1909 to 2011?,hotpotqa,War Neurosis,MULTI_STEP,fallback
+"Which magazine eventually had more monthly publications, Vogue or Y'all?",hotpotqa,Vogue,MULTI_STEP,fallback
+Are Pterostyrax and Dregea both native to Asia?,hotpotqa,"No, Pterostyrax is not native to Asia, while Dregea is.",MULTI_STEP,fallback
+"Iola is a city along the Neosho River in a region of Kansas that can be defined by Woddson County in the northwest, and what county in the northeast?",hotpotqa,Douglas County,MULTI_STEP,outcome
+"When was the designer of the Disneyland attraction with variants in California, France, Hong Kong, Tokyo, and the Tomorrowland Speedway born?",hotpotqa,"June 18, 1923",MULTI_STEP,fallback
+In which state is Stewart Nozette imprisoned?,hotpotqa,California,MULTI_STEP,outcome
+"What role is played by John Travolta in the film that greatly influenced the two dances, the disco fox and the hustle?",hotpotqa,Perry Ellington in Saturday Night Fever.,MULTI_STEP,outcome
+What is the southern border of the neighborhood that the Bruce Silverstein Gallery is located in?,hotpotqa,Unknown without specific location details.,MULTI_STEP,fallback
+The Collection at RiverPark is anchored by Target and an American supermarket chain that features foods without what type of fat?,hotpotqa,"The Collection at RiverPark is anchored by Target and Whole Foods Market, which features foods without trans fat.",MULTI_STEP,fallback
+Louis XVI style sought to evoke the artistic styles that were just then being rediscovered in  Pompeii and this ancient Roman town that was destroyed in what year,hotpotqa,79 CE,MULTI_STEP,fallback
+What team won the XLII super bowl in their 48th overall season?,hotpotqa,New England Patriots,MULTI_STEP,fallback
+"Who wrote lyrics for both ""Little Shop of Horrors"" and the song ""Be Our Guest?"" ",hotpotqa,Tim Rice and Howard Ashman,MULTI_STEP,fallback
+Luke Rockhold defeated the MMA fighter who was the first to earn a win against which champion in the UFC?,hotpotqa,"Luke Rockhold defeated Jon Jones, who was the first to earn a win against Anderson Silva in the UFC.",NO_RETRIEVAL,outcome
+"What Japanese Auto Manufacturer headquarted in Minato, Tokyo, Japan did Nissan aquire controlling interest in?",hotpotqa,Mitsubishi Motors,NO_RETRIEVAL,outcome
+"Which of these artist lives closer to Canada, Koshi Inaba or Jonathan Davis?",hotpotqa,Jonathan Davis,MULTI_STEP,fallback
+In which part of New York was the singer who released the song No Problem raised ?,hotpotqa,"The singer raised in New York is Missy Elliott, and she is from Brooklyn.",MULTI_STEP,fallback
+Which American actors and comedian played a New York City tailor in The Angel Levine?,hotpotqa,Mickey Rooney and Danny Thomas,SINGLE_STEP,outcome
+"What album did John Lennon release before the one that contained the song ""How?""",hotpotqa,"John Lennon released the album ""Some Time in New York City"" before ""Imagine,"" which contained the song ""How?""",MULTI_STEP,outcome
+"The announcer of ""Screen Gems Network"" was the voice of a mascot for what cereal?",hotpotqa,"The announcer of ""Screen Gems Network"" was the voice of Froot Loops' mascot, Fruity the Loon.",MULTI_STEP,fallback
+Jamal Igle was known for illustrative work on which DC Comics publication?,hotpotqa,"""Teen Titans.""",MULTI_STEP,fallback
+Who was involved in observing the natural progression of untreated syphilis in rural African-American men in Alabama?,hotpotqa,The Tuskegee Study of Untreated Syphilis in the Negro Male involved these individuals.,MULTI_STEP,outcome
+What was the English football club Tottenham Hotspur  that Leonard Francis played for commonly referred to as ?,hotpotqa,Spurs,NO_RETRIEVAL,outcome
+William Bromley-Davenport held political office under the Prime Minister who was of which party?,hotpotqa,"William Bromley-Davenport held political office under the Prime Minister Margaret Thatcher, who was of the Conservative Party.",NO_RETRIEVAL,outcome
+Were Basil Dean and Francis Ford Coppola both alive at some point in time?,hotpotqa,Yes,NO_RETRIEVAL,outcome
+Which American singer and songwriter born in 1983 formed the band Pistol Annies with Ashley Monroe and a third band member?,hotpotqa,Angélica Navarrete,SINGLE_STEP,outcome
+When is the birthday of the British-Irish heiress who worked on the Optimist In Black studio album?,hotpotqa,"June 24, 1996",MULTI_STEP,fallback
+What are some foods that may have been served at the Hawaiin Cottage?,hotpotqa,"Pineapple shortcake, lomi lomi salmon, poi, kalua pork, and haupia.",MULTI_STEP,fallback
+Wade Watts is the uncle of a politican who played college footbal for which team ?,hotpotqa,"Wade Watts is the uncle of former New Hampshire Governor Maggie Hassan, who played college football for Boston College.",SINGLE_STEP,outcome
+Carl Barks is best known for his comics about the cartoon character created in what year?,hotpotqa,1937,MULTI_STEP,outcome
+What was the Roud Folk Song Index of the nursery rhyme inspiring What Are Little Girls Made Of?,hotpotqa,It was song number 904 in the Roud Folk Song Index.,MULTI_STEP,fallback
+Gül Train is a project of which Eurasian political and economic intergovernmental organization?,hotpotqa,Eurasian Economic Union,MULTI_STEP,fallback
+"What memorial park located at John J. Pershing Drive in North Omaha has, among other amenities, a baseball park?",hotpotqa,Pershing Memorial Park,MULTI_STEP,fallback
+Which country did the Falkland Islands beat in the 2010 Commonwealth games that has eleven administrative divisions?,hotpotqa,Australia,SINGLE_STEP,outcome
+When was the composer who created Peter Schmoll und seine Nachbarn born?,hotpotqa,1925,MULTI_STEP,fallback
+"Which son of Robin Fox MC, is an English theater and film producer",hotpotqa,Samuel McQueen,MULTI_STEP,fallback
+Hobart Paving is a single by a band formed in which year ?,hotpotqa,2013,MULTI_STEP,fallback
+Are Des Moines International Airport and Grand Canyon National Park Airport both major airline hubs?,hotpotqa,No,NO_RETRIEVAL,outcome
