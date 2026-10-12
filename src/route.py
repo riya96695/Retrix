@@ -49,6 +49,17 @@ class QwenLLM:
         self.eos_ids = set(eos if isinstance(eos, (list, tuple)) else [eos]) | {self.tok.eos_token_id}
         self.eos_ids.discard(None)
 
+    def generate(self, prompt):
+        """Plain greedy answer for any prompt (used by the retrieval paths in rag.py)."""
+        torch = self.torch
+        text = self.tok.apply_chat_template(
+            [{"role": "user", "content": prompt}], tokenize=False, add_generation_prompt=True
+        )
+        inputs = self.tok(text, return_tensors="pt").to(self.device)
+        with torch.no_grad():
+            gen = self.model.generate(**inputs, pad_token_id=self.tok.eos_token_id, **self.gen_kwargs)
+        return self.tok.decode(gen[0, inputs["input_ids"].shape[1]:], skip_special_tokens=True).strip()
+
     def answer_with_confidence(self, query):
         torch = self.torch
         prompt = f"Answer in a few words, no explanation.\nQuestion: {query}"
