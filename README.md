@@ -8,9 +8,11 @@ Decide **how much retrieval a question needs before retrieving**: none, one sear
 |---|---|
 | Data (1200 queries, 6437-paragraph corpus), BM25 retriever, outcome-based labels | done |
 | Query router experiments (frozen encoder, LLM confidence features) | done |
-| Saved final router + `route(query)` inference function | not done |
+| Saved final router (`models/router.npz`) + `route(query)` (`src/route.py`) | done (router tested on Kaggle) |
+| Document store + routed RAG (`src/rag.py`: chunking, BM25, no / one / iterative search) | written, not yet tested on a GPU |
 | Confidence calibration (conformal), answer / retry / refuse decision, RL router | not done |
-| End-to-end evaluation (answer accuracy vs. number of retrievals), unseen test set | not done |
+| End-to-end evaluation (answer accuracy vs. number of searches), `src/eval_end2end.py` | script written, needs `--all` runs of B and C |
+| Unseen test set (2Wiki / MuSiQue) | not done |
 | Backend (FastAPI) and frontend | in progress (see `backend/`, `frontend/`) |
 
 ## Idea
@@ -32,7 +34,8 @@ The `datasets` library is used only to download SQuAD and HotpotQA.
 ## Repository layout
 
 ```
-src/         core: data, retrieval, labels, router experiments
+src/         core: data, retrieval, labels, router experiments, route.py, rag.py
+models/      saved router (router.npz)
 data/        generated CSVs (queries, answers_A/B/C, labels, conf_A) and corpus.jsonl
 backend/     FastAPI service (separate branch)
 frontend/    UI (separate branch)
@@ -50,6 +53,24 @@ python src/make_labels.py      # strict and relaxed labels
 python src/gen_conf.py         # LLM confidence features (GPU)
 python src/embed.py            # frozen bge-small embeddings
 python src/train_classifier.py # 5-fold CV x 5 seeds
+python src/train_final.py      # saves models/router.npz (confidence-only router)
+
+# end-to-end evaluation (B and C on every query, GPU), then the table
+python src/gen_answers_B.py --all
+python src/gen_answers_C.py --all
+python src/eval_end2end.py
+```
+
+### Try the router and the RAG (needs a GPU, e.g. Kaggle)
+
+```python
+import sys; sys.path.insert(0, "src")
+from rag import RagSystem
+from route import Retrix
+
+rag = RagSystem(Retrix())
+rag.store.add_text("notes", "Paris is the capital of France. ...")
+print(rag.ask("What is the capital of France?"))
 ```
 
 The GPU steps were run on a Kaggle T4. All generation scripts are resumable (they checkpoint every 20 queries).

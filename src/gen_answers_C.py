@@ -1,9 +1,10 @@
 """Step 2c: strategy C, iterative retrieval (the LLM writes follow-up searches, max 3 rounds). Resumable.
-Runs only on queries where A and B were both wrong.
+Runs only on queries where A and B were both wrong, or on ALL queries with --all (-> answers_C_all.csv).
 Output: data/answers_C.csv -> query, source_dataset, n_rounds, answer_C, correct_C
 """
 import json
 import os
+import sys
 
 from bm25 import BM25
 from common import DATA, is_correct, load_rows, report, save_rows
@@ -11,6 +12,7 @@ from llm import load_ask
 
 MAX_ROUNDS = 3
 TOP_K = 3
+ALL = "--all" in sys.argv   # run on every query (answers_C_all.csv), not only where A and B failed
 
 
 def main():
@@ -20,9 +22,14 @@ def main():
     bm25 = BM25(docs)
 
     gold = {r["query"]: r["gold_answers"] for r in load_rows(os.path.join(DATA, "answers_A.csv"))}
-    wrong = [r for r in load_rows(os.path.join(DATA, "answers_B.csv")) if r["correct_B"] == "0"]
-    path = os.path.join(DATA, "answers_C.csv")
+    if ALL:
+        wrong = load_rows(os.path.join(DATA, "answers_A.csv"))
+    else:
+        wrong = [r for r in load_rows(os.path.join(DATA, "answers_B.csv")) if r["correct_B"] == "0"]
+    path = os.path.join(DATA, "answers_C_all.csv" if ALL else "answers_C.csv")
     out = load_rows(path)
+    if ALL and not out:                       # same model + settings -> same answers: reuse them
+        out = load_rows(os.path.join(DATA, "answers_C.csv"))
     done = {r["query"] for r in out}
     todo = [r for r in wrong if r["query"] not in done]
     print(f"C: A aur B dono galat {len(wrong)} | {len(out)} already done, {len(todo)} to go")
