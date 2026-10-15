@@ -1,15 +1,18 @@
 """Step 2b: strategy B, ONE BM25 search, then the LLM answers from the retrieved paragraphs. Resumable.
-Runs only on queries where A was wrong.
-Output: data/answers_B.csv -> query, source_dataset, retrieved_ids, answer_B, correct_B
+Default: runs only on queries where A was wrong -> data/answers_B.csv
+--all:   runs on ALL queries (reuses answers already in answers_B.csv) -> data/answers_B_all.csv
+Output columns: query, source_dataset, retrieved_ids, answer_B, correct_B
 """
 import json
 import os
+import sys
 
 from bm25 import BM25
 from common import DATA, is_correct, load_rows, report, save_rows
 from llm import load_ask
 
 TOP_K = 5
+ALL = "--all" in sys.argv
 
 
 def main():
@@ -18,12 +21,26 @@ def main():
     by_id = {d["doc_id"]: d for d in docs}
     bm25 = BM25(docs)
 
-    wrong = [r for r in load_rows(os.path.join(DATA, "answers_A.csv")) if r["correct_A"] == "0"]
-    path = os.path.join(DATA, "answers_B.csv")
-    out = load_rows(path)
-    done = {r["query"] for r in out}
-    todo = [r for r in wrong if r["query"] not in done]
-    print(f"B: A galat tha {len(wrong)} | {len(out)} already done, {len(todo)} to go")
+    a_rows = load_rows(os.path.join(DATA, "answers_A.csv"))
+
+    if ALL:
+        path = os.path.join(DATA, "answers_B_all.csv")
+        out = load_rows(path)
+        have = {r["query"] for r in out}
+        # purane B run ke answers reuse karo
+        for r in load_rows(os.path.join(DATA, "answers_B.csv")):
+            if r["query"] not in have:
+                out.append(r)
+                have.add(r["query"])
+        todo = [r for r in a_rows if r["query"] not in have]
+        print(f"B --all: {len(a_rows)} queries | {len(out)} already done, {len(todo)} to go")
+    else:
+        wrong = [r for r in a_rows if r["correct_A"] == "0"]
+        path = os.path.join(DATA, "answers_B.csv")
+        out = load_rows(path)
+        done = {r["query"] for r in out}
+        todo = [r for r in wrong if r["query"] not in done]
+        print(f"B: A galat tha {len(wrong)} | {len(out)} already done, {len(todo)} to go")
 
     if todo:
         ask = load_ask()
@@ -42,7 +59,7 @@ def main():
                 print(f"{i}/{len(todo)} | {r['query'][:50]} -> {ans[:40]} | {ok}")
         save_rows(path, out)
 
-    report(out, "correct_B", "A galat tha, B ne sahi kiya")
+    report(out, "correct_B", "B ne sahi kiya" if ALL else "A galat tha, B ne sahi kiya")
 
 
 if __name__ == "__main__":
