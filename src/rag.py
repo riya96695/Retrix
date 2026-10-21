@@ -3,6 +3,7 @@ Documents -> chunks -> BM25 index (scratch). The router decides how to answer:
   NO_RETRIEVAL -> the LLM's own answer, no search
   SINGLE_STEP  -> one BM25 search over the chunks, LLM answers from them      (same as strategy B)
   MULTI_STEP   -> iterative search, the LLM writes follow-up searches (max 3)  (same as strategy C)
+SINGLE_STEP also returns answer_confidence (Step 2 score, 0..1); it is None on the other routes.
 
 Needs a GPU for the LLM (run on Kaggle/Colab).
 Usage:  python src/rag.py --doc notes.txt --doc more.txt "your question"
@@ -58,11 +59,17 @@ def _context(chunks):
 class RagSystem:
     def __init__(self, retrix, store=None):
         self.retrix, self.store = retrix, store or DocStore()
+        try:                                     # Step 2 score; the system still works without it
+            from live_signals import LiveConfidence
+            self.conf = LiveConfidence(retrix.llm)
+        except Exception as e:
+            self.conf = None
+            print(f"answer_confidence disabled: {e}")
 
     def ask(self, query):
         r = self.retrix.route(query)            # route, probs, hypothetical_answer, confidence
         llm = self.retrix.llm
-        hits, searches, note = [], 0, ""
+        hits, searches, note, answer_conf = [], 0, "", None
 
         if r["route"] == "NO_RETRIEVAL":
             final = r["hypothetical_answer"]
@@ -71,9 +78,12 @@ class RagSystem:
             note = "no documents loaded: returning the LLM's own answer"
         elif r["route"] == "SINGLE_STEP":
             hits, searches = self.store.search(query, TOP_K_B), 1
-            final = llm.generate(
-                "Use the context to answer. Answer in a few words, no explanation.\n\n"
-                f"Context:\n{_context([c for c, _ in hits])}\n\nQuestion: {query}")
+            if self.conf:
+                final, answer_conf = self.conf.answer_with_score(query, hits)
+            else:
+                final = llm.generate(
+                    "Use the context to answer. Answer in a few words, no explanation.\n\n"
+                    f"Context:\n{_context([c for c, _ in hits])}\n\nQuestion: {query}")
         else:                                    # MULTI_STEP: LLM writes follow-up searches
             seen, search_q, final = {}, query, ""
             for rnd in range(1, MAX_ROUNDS + 1):
@@ -96,6 +106,7 @@ class RagSystem:
             hits = list(seen.values())
 
         return {**r, "final_answer": final, "n_searches": searches, "note": note,
+                "answer_confidence": answer_conf,
                 "retrieved": [{"chunk_id": c["doc_id"], "doc": c["title"], "chunk": c["text"],
                                "score": round(float(s), 3)} for c, s in hits]}
 
