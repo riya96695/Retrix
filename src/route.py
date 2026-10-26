@@ -90,27 +90,25 @@ class Retrix:
     def __init__(self, llm=None, router=None):
         self.llm = llm or QwenLLM()
         self.router = router or Router()
+        try:                                     # new cascade router; falls back to the old router on any error
+            import embed as E
+            from transformers import AutoModel, AutoTokenizer
+            from cascade import CascadeRouter
+            self.cascade = CascadeRouter()
+            self._E = E
+            self._etok = AutoTokenizer.from_pretrained(E.MODEL)
+            self._emodel = AutoModel.from_pretrained(E.MODEL).to(E.DEVICE).eval()
+        except Exception as e:
+            self.cascade = None
+            print(f"cascade router disabled, using the old router: {e}")
 
     def route(self, query):
         """Returns the dict agreed in backend/README.md."""
         answer, feats = self.llm.answer_with_confidence(query)
-        out = self.router.predict(feats)
+        if self.cascade:
+            out = self.cascade.predict(feats, self._E.embed(self._etok, self._emodel, [query])[0])
+        else:
+            out = self.router.predict(feats)
         feats = {k: round(v, 5) if isinstance(v, float) else v for k, v in feats.items()}
         return {"route": out["route"], "probs": out["probs"],
                 "hypothetical_answer": answer, "confidence": feats}
-
-
-def main():
-    system = Retrix()
-    if len(sys.argv) > 1:
-        print(json.dumps(system.route(" ".join(sys.argv[1:])), indent=2, ensure_ascii=False))
-        return
-    while True:
-        q = input("query (empty to quit): ").strip()
-        if not q:
-            break
-        print(json.dumps(system.route(q), indent=2, ensure_ascii=False))
-
-
-if __name__ == "__main__":
-    main()
