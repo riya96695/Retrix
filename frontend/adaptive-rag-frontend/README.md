@@ -1,16 +1,20 @@
-# Adaptive RAG Frontend (React + Vite)
+# Adaptive RAG Frontend
 
-## Run
+## Chalane ka tareeka
     npm install
-    npm run dev        # http://localhost:5173
+    cp .env.example .env     # VITE_API_BASE_URL apne backend pe set karo
+    npm run dev
 
-## Mock vs real backend
-`.env` mein `VITE_USE_MOCK=true` (default) -> mocked response.
-Backend ready hone par `VITE_USE_MOCK=false` karein. Vite dev server `/api` ko `http://localhost:8000` par proxy karta hai.
+## Backend se ye expected hai
+POST /ask   body: { "question": "..." }
+response:
+    {
+      "answer": "...",
+      "route": "no_search" | "single_search" | "multi_step",
+      "confidence": 0.82,            // ya null jab search nahi hua
+      "chunks": [ { "text": "...", "source": "file.pdf", "score": 0.91 } ]
+    }
 
-## API contract
-POST /api/query   body: {"query": "..."}
-  -> { route, probabilities:{no_retrieval,single_step,multi_step}, llm_answer, llm_confidence,
-       evaluator:{verdict:"correct|ambiguous|incorrect|not_used", score}, final_answer,
-       sources:[{doc, chunk_id, score, text}] }
-POST /api/upload  multipart field "file" -> { chunks: <int> }
+POST /docs  multipart/form-data, field name: "file"
+
+Backend me CORS allow karna mat bhoolna (localhost:5173).
